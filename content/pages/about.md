@@ -9,7 +9,7 @@ meta:
   title: Perfectly presented homes
 ---
 
-section1: >-
+
   ## About Us
 
 
@@ -30,7 +30,7 @@ section1: >-
 
 
   
-section2: >-
+
   ## You'll love our simple process
 
 
@@ -41,7 +41,4 @@ section2: >-
 
 
 
-meta:
-  description: 
-  title: Real Estate
----
+
