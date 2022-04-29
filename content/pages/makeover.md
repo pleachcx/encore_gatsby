@@ -24,7 +24,7 @@ meta:
 
   
 
-  ## You'll love our simple process
+
 
 
   
