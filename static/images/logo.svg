@@ -2,17 +2,35 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="120"
    height="120"
    viewBox="0 0 120 120"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
-   sodipodi:docname="logo.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="logo2.svg"
+   inkscape:export-filename="/home/pl/logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata856">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
   <sodipodi:namedview
      id="namedview7"
      pagecolor="#505050"
@@ -24,14 +42,14 @@
      inkscape:document-units="px"
      showgrid="false"
      inkscape:zoom="4.0795532"
-     inkscape:cx="16.791054"
+     inkscape:cx="61.526345"
      inkscape:cy="60.545846"
-     inkscape:window-width="1728"
-     inkscape:window-height="966"
-     inkscape:window-x="0"
-     inkscape:window-y="38"
+     inkscape:window-width="990"
+     inkscape:window-height="958"
+     inkscape:window-x="930"
+     inkscape:window-y="27"
      inkscape:window-maximized="0"
-     inkscape:current-layer="g3378" />
+     inkscape:current-layer="layer2" />
   <defs
      id="defs2">
     <rect
@@ -110,7 +128,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="Layer 2">
+     inkscape:label="Layer 2"
+     style="display:none">
     <rect
        style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
        id="rect285"
@@ -138,8 +157,7 @@
          rx="49.866051"
          ry="49.865906" />
       <g
-         aria-label="encore
-"
+         aria-label="encore "
          transform="matrix(1.1884855,0,0,1.1884855,-36.68457,78.111779)"
          id="text854-2-3-0"
          style="font-size:17.6389px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;white-space:pre;shape-inside:url(#rect856-9-7-0-9-8);fill:#d4a373">
