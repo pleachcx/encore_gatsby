@@ -16,7 +16,7 @@ media_library:
     clearable: true
 
 collections: # A list of collections the CMS should be able to edit
-   - name: 'home'
+   - name: 'homepage'
     label: 'Home Page'
     delete: false # Prevent users from deleting documents in this collection
     editor:
