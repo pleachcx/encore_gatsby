@@ -16,57 +16,12 @@ media_library:
     clearable: true
 
 collections: # A list of collections the CMS should be able to edit
-  - name: 'pages'
-    label: 'Page'
-    folder: 'content/pages/'
-    create: true
-    delete: false # Prevent users from deleting documents in this collection
-    editor:
-      preview: true
-    fields:
-      - {
-          label: Template,
-          name: template,
-          widget: hidden,
-          default: HomePage,
-        }
-      - { label: Slug, name: slug, widget: hidden, default: '' }
-      - { label: Title, name: title, widget: string }
-      - { label: Featured Image, name: featuredImage, widget: image }
-      - { label: Subtitle, name: subtitle, widget: markdown, required: false }
-      - { label: Body, name: body, widget: markdown }
-      - label: 'Accordion'
-        name: 'accordion'
-        widget: 'list'
-        required: false
-        fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: Content, name: content, widget: text }
-      - label: 'Meta'
-        required: false
-        name: 'meta'
-        widget: 'object'
-        fields:
-          - { label: Title, name: title, widget: string, required: false }
-          - {
-              label: Description,
-              name: description,
-              widget: text,
-              required: false,
-            }
-          - {
-              label: Canonical Link,
-              name: canonicalLink,
-              widget: string,
-              required: false,
-            }
-          
-  - name: 'home'
+    - name: 'home'
     label: 'Home'
     delete: false # Prevent users from deleting documents in this collection
     editor:
       preview: true
-      - file: 'content/pages/home.md'
+    - file: 'content/pages/home.md'
         label: 'Home Page'
         name: 'home-page'
         fields:
@@ -113,8 +68,51 @@ collections: # A list of collections the CMS should be able to edit
                   required: false,
                 }
 
-      
-
+  - name: 'pages'
+    label: 'Page'
+    folder: 'content/pages/'
+    create: true
+    delete: false # Prevent users from deleting documents in this collection
+    editor:
+      preview: true
+    fields:
+      - {
+          label: Template,
+          name: template,
+          widget: hidden,
+          default: HomePage,
+        }
+      - { label: Slug, name: slug, widget: hidden, default: '' }
+      - { label: Title, name: title, widget: string }
+      - { label: Featured Image, name: featuredImage, widget: image }
+      - { label: Subtitle, name: subtitle, widget: markdown, required: false }
+      - { label: Body, name: body, widget: markdown }
+      - label: 'Accordion'
+        name: 'accordion'
+        widget: 'list'
+        required: false
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: Content, name: content, widget: text }
+      - label: 'Meta'
+        required: false
+        name: 'meta'
+        widget: 'object'
+        fields:
+          - { label: Title, name: title, widget: string, required: false }
+          - {
+              label: Description,
+              name: description,
+              widget: text,
+              required: false,
+            }
+          - {
+              label: Canonical Link,
+              name: canonicalLink,
+              widget: string,
+              required: false,
+            }
+          
   
 
   - name: posts
