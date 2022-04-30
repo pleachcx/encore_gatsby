@@ -7,7 +7,7 @@ backend:
 media_library:
   name: uploadcare
   config:
-    publicKey: 64209ff29b72f1e94713
+    publicKey: a73a170cb5cdef662983
     multiple: false
     tabs: 'file camera url facebook gdrive'
     effects: 'crop,rotate,enhance,grayscale'
@@ -18,56 +18,86 @@ media_library:
 collections: # A list of collections the CMS should be able to edit
   - name: 'pages'
     label: 'Page'
-    folder: 'content/pages/'
-    create: true
     delete: false # Prevent users from deleting documents in this collection
     editor:
       preview: true
-    fields:
-      - {
-          label: Template,
-          name: template,
-          widget: hidden,
-          default: HomePage,
-        }
-      - { label: Slug, name: slug, widget: hidden, default: '' }
-      - { label: Title, name: title, widget: string }
-      - { label: Featured Image, name: featuredImage, widget: image }
-      - { label: Subtitle, name: subtitle, widget: markdown, required: false }
-      - { label: Body, name: body, widget: markdown }
-      - label: 'Accordion'
-        name: 'accordion'
-        widget: 'list'
-        required: false
+    files:
+      - file: 'content/pages/contact.md'
+        label: 'Contact Page'
+        name: 'contact-page'
         fields:
-          - { label: 'Title', name: 'title', widget: 'string' }
-          - { label: Content, name: content, widget: text }
-      - label: 'Meta'
-        required: false
-        name: 'meta'
-        widget: 'object'
-        fields:
-          - { label: Title, name: title, widget: string, required: false }
           - {
-              label: Description,
-              name: description,
-              widget: text,
-              required: false,
+              label: Template,
+              name: template,
+              widget: hidden,
+              default: ContactPage,
             }
+          - { label: Slug, name: slug, widget: hidden, default: 'contact' }
+          - { label: Title, name: title, widget: string }
           - {
-              label: Canonical Link,
-              name: canonicalLink,
-              widget: string,
-              required: false,
+              label: Featured Image,
+              name: featuredImage,
+              widget: image,
+              options:
+                { media_library: { config: { imageShrink: 2600x2600 } } },
             }
-          - {
-              label: Noindex,
-              name: noindex,
-              widget: boolean,
-              required: false,
-            }
+          - { label: Subtitle, name: subtitle, widget: markdown }
+          - { label: Body, name: body, widget: markdown }
+          - { label: Address, name: address, widget: text }
+          - { label: Phone, name: phone, widget: string }
+          - { label: Email Address, name: email, widget: string }
+          - name: locations
+            label: locations
+            widget: list
+            fields:
+              - {
+                  name: mapLink,
+                  label: mapLink,
+                  widget: string,
+                  required: false,
+                  default: '',
+                }
+              - {
+                  name: lat,
+                  label: latitude,
+                  widget: string,
+                  required: false,
+                  delete: false,
+                  default: '',
+                }
+              - {
+                  name: lng,
+                  label: longitude,
+                  widget: string,
+                  required: false,
+                  delete: false,
+                  default: '',
+                }
+          - label: 'Meta'
+            required: false
+            name: 'meta'
+            widget: 'object'
+            fields:
+              - { label: Title, name: title, widget: string, required: false }
+              - {
+                  label: Description,
+                  name: description,
+                  widget: text,
+                  required: false,
+                }
+              - {
+                  label: Canonical Link,
+                  name: canonicalLink,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  label: Noindex,
+                  name: noindex,
+                  widget: boolean,
+                  required: false,
+                }
 
-    
       - file: 'content/pages/blog.md'
         label: 'Blog Page'
         name: 'blog-page'
@@ -164,7 +194,52 @@ collections: # A list of collections the CMS should be able to edit
                   required: false,
                 }
 
-      
+      - file: 'content/pages/home.md'
+        label: 'Home Page'
+        name: 'home-page'
+        fields:
+          - {
+              label: Template,
+              name: template,
+              widget: hidden,
+              default: HomePage,
+            }
+          - { label: Slug, name: slug, widget: hidden, default: '' }
+          - { label: Title, name: title, widget: string }
+          - { label: Featured Image, name: featuredImage, widget: image }
+          - { label: Subtitle, name: subtitle, widget: markdown, required: false }
+          - { label: Body, name: body, widget: markdown }
+          - label: 'Accordion'
+            name: 'accordion'
+            widget: 'list'
+            required: false
+            fields:
+              - { label: 'Title', name: 'title', widget: 'string' }
+              - { label: Content, name: content, widget: text }
+          - label: 'Meta'
+            required: false
+            name: 'meta'
+            widget: 'object'
+            fields:
+              - { label: Title, name: title, widget: string, required: false }
+              - {
+                  label: Description,
+                  name: description,
+                  widget: text,
+                  required: false,
+                }
+              - {
+                  label: Canonical Link,
+                  name: canonicalLink,
+                  widget: string,
+                  required: false,
+                }
+              - {
+                  label: Noindex,
+                  name: noindex,
+                  widget: boolean,
+                  required: false,
+                }
 
   - name: infoPages
     label: Info Page
