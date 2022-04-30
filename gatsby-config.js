@@ -3,11 +3,20 @@ const postcssPresetEnv = require('postcss-preset-env')
 module.exports = {
   siteMetadata: {
     title: 'Encore Home Staging',
-    siteUrl: 'https://encorehomestaging.com'
+    siteUrl: 'https://encorehomestaging.com.au'
   },
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-transformer-yaml',
+    { 
+      resolve: 'gatsby-plugin-web-font-loader',
+      options: {
+        google: {
+          families: ['Montserrat', 'Roboto']
+        }
+      }
+    },  
+
     {
       resolve: 'gatsby-plugin-google-tagmanager',
       options: {
