@@ -176,7 +176,7 @@
 .NavLink:hover,
 .NavLink.active,
 .NavLink:focus {
-  color: var(--primary);
+  color: var(--secondary);
   border-bottom-color: currentColor;
 }
 
@@ -670,7 +670,7 @@ summary {
 }
 
 :root {
-  --primary: #00c2bd;
+  --primary: rgba(255,214,10,1);
   --secondary: #000;
   --lightGrey: whitesmoke;
   --midGrey: #cacaca;
@@ -690,16 +690,16 @@ summary {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #00c2bd;
+  background-color: rgba(255,214,10,1);
   background-color: var(--primary);
 }
 
 ::-moz-selection {
-  background: rgba(0, 194, 189, 0.6);
+  background: rgba(255, 214, 10, 255);
 }
 
 ::selection {
-  background: rgba(0, 194, 189, 0.6);
+  background: rgba(255, 214, 10, 255);
 }
 
 html {
@@ -727,7 +727,7 @@ body {
 }
 
 a {
-  color: #00c2bd;
+  color: rgba(255,214,10,1);
   color: var(--primary);
 }
 
@@ -807,7 +807,7 @@ blockquote {
   line-height: 1.1;
   font-size: 1em;
   font-style: italic;
-  border-left: 2px solid #00c2bd;
+  border-left: 2px solid rgba(255,214,10,1);
   border-left: 2px solid var(--primary);
 }
 
@@ -820,7 +820,7 @@ blockquote {
   background-color: white;
 }
 .dark {
-  background-color: #00c2bd;
+  background-color: rgba(255,214,10,1);
   background-color: var(--primary);
   color: white;
 }
@@ -913,7 +913,7 @@ blockquote {
 /* Buttons */
 
 .Button {
-  background: #00c2bd;
+  background: rgba(255,214,10,1);
   background: var(--primary);
   color: white;
   text-transform: uppercase;

@@ -3,10 +3,10 @@ import './Footer.css'
 
 export default () => (
   <div>
-    <h2 className="taCenter">
+    <h5 className="taCenter">
       Follow us{' '}
-      <a href="https://instagram.com/encore_home_staging/">@encore</a>
-    </h2>
+      <a href="https://instagram.com/encore_home_staging/">@encorehomestaging</a>
+    </h5>
     <br />
     <footer className="footer">
       <div className="container taCenter">
