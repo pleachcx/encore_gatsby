@@ -1,22 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="120"
+   height="120"
+   viewBox="0 0 120 120"
    version="1.1"
-   id="svg2764"
-   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="logo.svg">
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   sodipodi:docname="logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="4.0795532"
+     inkscape:cx="16.791055"
+     inkscape:cy="60.545846"
+     inkscape:window-width="1728"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="37"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer2" />
   <defs
-     id="defs2758">
+     id="defs2">
     <rect
        x="87.250336"
        y="41.209991"
@@ -32,121 +49,129 @@
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath3382">
-      <use
-         x="0"
-         y="0"
-         xlink:href="#g3378"
-         id="use3384" />
+      <g
+         inkscape:label="Clip"
+         id="use3384"
+         transform="scale(3.7795276)">
+        <circle
+           style="fill:#000814;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle101"
+           cx="103.85154"
+           cy="143.99513"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           r="49.865906"
+           inkscape:export-filename="/home/pl/logo/black_largerfont.png" />
+        <text
+           xml:space="preserve"
+           id="text113"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;white-space:pre;shape-inside:url(#rect856-9-7-0-9);fill:#d4a373;fill-opacity:1"
+           x="17.801065"
+           y="0"
+           transform="matrix(1.1884855,0,0,1.1884855,-36.68457,78.111779)"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/pl/logo/black_largerfont.png"><tspan
+             x="88.482402"
+             y="57.422737"
+             id="tspan1394"><tspan
+               style="font-weight:300;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#ffffff"
+               id="tspan1386">enc</tspan><tspan
+               style="fill:#ffd60a"
+               id="tspan1388">o</tspan><tspan
+               style="font-weight:300;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#ffffff"
+               id="tspan1390">re</tspan><tspan
+               style="font-weight:300;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-anchor:middle;fill:#ffffff"
+               id="tspan1392">
+</tspan></tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:4.61199px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.431842"
+           x="106.16625"
+           y="155.8055"
+           id="text117"
+           inkscape:export-xdpi="96"
+           inkscape:export-ydpi="96"
+           inkscape:export-filename="/home/pl/logo/black_largerfont.png"><tspan
+             sodipodi:role="line"
+             id="tspan115"
+             x="106.16625"
+             y="155.8055"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.61199px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#ffffff;stroke-width:0.431842">home staging</tspan></text>
+      </g>
     </clipPath>
+    <rect
+       x="87.250336"
+       y="41.209991"
+       width="61.995102"
+       height="37.163666"
+       id="rect856-9-7-0-9-8" />
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="359.00361"
-     inkscape:cy="637.64801"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
-     inkscape:document-rotation="0"
-     showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="958"
-     inkscape:window-x="0"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1" />
-  <metadata
-     id="metadata2761">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="square">
+     inkscape:label="Layer 2">
     <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffd54f;stroke-width:0.26458332;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.11666664, 2.11666664000000004;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
-       id="rect3875"
-       width="100.91964"
-       height="101.10863"
-       x="53.29464"
-       y="93.837799"
-       ry="0" />
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd"
+       id="rect285"
+       width="119.37582"
+       height="119.62094"
+       x="0.49024978"
+       y="0.24512489" />
   </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <a
-       id="a4682">
-      <g
-         inkscape:export-ydpi="12.73"
-         inkscape:export-xdpi="12.73"
-         id="g3397">
-        <g
-           clip-path="url(#clipPath3382)"
-           id="g3380">
-          <g
-             id="g3378"
-             inkscape:label="Clip">
-            <circle
-               inkscape:export-filename="/home/pl/logo/black_largerfont.png"
-               r="49.865906"
-               inkscape:export-ydpi="96"
-               inkscape:export-xdpi="96"
-               cy="143.99513"
-               cx="103.85154"
-               id="path861-3-5-3-6"
-               style="fill:#000814;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-            <text
-               inkscape:export-filename="/home/pl/logo/black_largerfont.png"
-               inkscape:export-ydpi="96"
-               inkscape:export-xdpi="96"
-               transform="matrix(1.1884855,0,0,1.1884855,-36.68457,78.111779)"
-               y="0"
-               x="17.801065"
-               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;white-space:pre;shape-inside:url(#rect856-9-7-0-9);fill:#d4a373;fill-opacity:1;"
-               id="text854-2-3-0"
-               xml:space="preserve"><tspan
-                 id="tspan161"
-                 y="57.422737"
-                 x="88.497373"><tspan
-                   id="tspan153"
-                   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#ffffff;fill-opacity:1">enc</tspan><tspan
-                   id="tspan155"
-                   style="fill:#ffd60a;fill-opacity:1">o</tspan><tspan
-                   id="tspan157"
-                   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#ffffff;fill-opacity:1">re</tspan><tspan
-                   id="tspan159"
-                   style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:17.6389px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1">
+    <g
+       inkscape:label="Clip"
+       id="g3378"
+       transform="matrix(1.1493391,0,0,1.1493391,-59.146733,-106.06086)">
+      <circle
+         style="fill:#000814;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path861-3-5-3-6"
+         cx="103.85154"
+         cy="143.99513"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         r="49.865906"
+         inkscape:export-filename="/home/pl/logo/black_largerfont.png" />
+      <text
+         xml:space="preserve"
+         id="text854-2-3-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.6389px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:center;white-space:pre;shape-inside:url(#rect856-9-7-0-9-8);fill:#d4a373;fill-opacity:1"
+         x="17.801065"
+         y="0"
+         transform="matrix(1.1884855,0,0,1.1884855,-36.68457,78.111779)"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:export-filename="/home/pl/logo/black_largerfont.png"><tspan
+           x="88.482402"
+           y="57.422737"
+           id="tspan1404"><tspan
+             style="font-weight:300;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#ffffff"
+             id="tspan1396">enc</tspan><tspan
+             style="fill:#ffd60a"
+             id="tspan1398">o</tspan><tspan
+             style="font-weight:300;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';fill:#ffffff"
+             id="tspan1400">re</tspan><tspan
+             style="font-weight:300;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-anchor:middle;fill:#ffffff"
+             id="tspan1402">
 </tspan></tspan></text>
-            <text
-               inkscape:export-filename="/home/pl/logo/black_largerfont.png"
-               inkscape:export-ydpi="96"
-               inkscape:export-xdpi="96"
-               id="text872-8-3-6"
-               y="155.8055"
-               x="106.16625"
-               style="font-size:4.61199px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.431842"
-               xml:space="preserve"><tspan
-                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.61199px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#ffffff;stroke-width:0.431842"
-                 y="155.8055"
-                 x="106.16625"
-                 id="tspan870-9-7-2"
-                 sodipodi:role="line">home staging</tspan></text>
-          </g>
-        </g>
-      </g>
-    </a>
+      <text
+         xml:space="preserve"
+         style="font-size:4.61199px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:Montserrat;stroke-width:0.431842"
+         x="106.16625"
+         y="155.8055"
+         id="text872-8-3-6"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         inkscape:export-filename="/home/pl/logo/black_largerfont.png"><tspan
+           sodipodi:role="line"
+           id="tspan870-9-7-2"
+           x="106.16625"
+           y="155.8055"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.61199px;font-family:Montserrat;-inkscape-font-specification:Montserrat;fill:#ffffff;stroke-width:0.431842">home staging</tspan></text>
+    </g>
   </g>
 </svg>
