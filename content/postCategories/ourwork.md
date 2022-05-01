@@ -2,5 +2,5 @@
 template: BlogIndex
 title: Our Work
 subtitle: ""
-featuredImage: https://ucarecdn.com/4f27887d-9ab8-4282-bdc5-4037679f5126/
+featuredImage: https://ucarecdn.com/fac4c151-0935-4476-9916-43e623f3d49e/
 ---
