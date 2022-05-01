@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: encore home staging
-featuredImage: https://ucarecdn.com/172d2d1c-5c37-498d-9629-330bb503b32b/
+featuredImage: https://ucarecdn.com/3089d5a6-8508-4770-8f8b-1692fdf83952/
 subtitle: Unlock your property returns
 meta:
   description: This is a meta description.
@@ -16,11 +16,9 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+![](https://ucarecdn.com/daf98d62-1e69-4fdb-9460-421ae08bf605/)
 
-
-
-
-![](https://ucarecdn.com/0093031c-ee18-4b30-b70d-af814e200da5/)
+![]()
 
 # Contrary to popular belief
 
