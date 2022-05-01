@@ -2,7 +2,7 @@
 template: ContactPage
 slug: contact
 title: Contact Us
-featuredImage: https://ucarecdn.com/7b74eabf-81aa-40ec-98a6-ef4bde2bcfb3/-/crop/864x1848/52,204/-/preview/
+featuredImage: https://ucarecdn.com/7b74eabf-81aa-40ec-98a6-ef4bde2bcfb3/-/crop/916x688/0,204/-/preview/
 subtitle: Get In Touch
 meta:
   description: Unlock your property returns
