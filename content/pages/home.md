@@ -2,7 +2,7 @@
 template: HomePage
 slug: ""
 title: encore home staging
-featuredImage: https://ucarecdn.com/106d264d-2351-40c6-9cbe-a000029bb3f3/
+featuredImage: https://ucarecdn.com/a76256a5-8690-4400-9806-36df883abd5b/
 subtitle: Unlock your property returns
 meta:
   description: This is a meta description.
