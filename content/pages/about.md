@@ -2,7 +2,7 @@
 template: HomePage
 slug: About
 title: About
-featuredImage: https://ucarecdn.com/73c89543-f1c1-4fdd-9133-54b823b1c0fe/
+featuredImage: https://ucarecdn.com/397d2744-04c5-49ae-835c-35418fd58a46/
 subtitle: ""
 meta:
   description: Unlock your property returns
