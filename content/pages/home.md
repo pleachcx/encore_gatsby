@@ -28,7 +28,7 @@ Latin professor at Hampden-Sydney College in Virginia, looked up one of the more
 
 Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. 
 
-![](https://ucarecdn.com/8e599825-350d-4049-a7ff-62c4209ffae9/)
+![](https://ucarecdn.com/211c1336-9150-4319-b9f9-b26822ad54c4/)
 
 # Lorem Ipsum
 
