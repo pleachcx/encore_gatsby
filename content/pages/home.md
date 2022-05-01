@@ -16,7 +16,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-![](https://ucarecdn.com/daf98d62-1e69-4fdb-9460-421ae08bf605/)
+![](https://ucarecdn.com/236d2ffb-5455-4360-8f1e-f496203f3803/)
 
 ![]()
 
@@ -28,7 +28,7 @@ Latin professor at Hampden-Sydney College in Virginia, looked up one of the more
 
 Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. 
 
-![](https://ucarecdn.com/211c1336-9150-4319-b9f9-b26822ad54c4/)
+![](https://ucarecdn.com/530e4c02-4e85-43de-9fcc-9062b9ec8b69/)
 
 # Lorem Ipsum
 
