@@ -164,7 +164,6 @@
 .NavLink {
   padding: 0.5rem 1rem;
   display: block;
-  font-family: "Montserrat";
   font-weight: 300;
   -webkit-transition: color 0.2s, border-bottom-color 0.2s;
   transition: color 0.2s, border-bottom-color 0.2s;
@@ -742,18 +741,18 @@ p {
 }
 
 h1 {
-  font-family: "Montserrat";
-  font-weight: 300;
+  font-family: "Montserrat Light";
+  font-weight: 200;
 }
 
 h2 {
   font-family: "Montserrat";
-  font-weight: 300;
+  font-weight: 200;
 }
 
 h3 {
   font-family: "Montserrat";
-  font-weight: 300;
+  font-weight: 200;
 }
 
 h4 {
@@ -1881,13 +1880,13 @@ a.pswp__share--download:hover {
 
 .Contact--Details {
   margin-top: 3rem;
-}
+  }
 
 .Contact--Details--Item {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  #padding: 2rem 0;
+  padding: 2rem 0;
   border-top: 1px solid var(--lightGrey);
   font-weight: 500;
   text-decoration: none;
@@ -2003,15 +2002,19 @@ a.pswp__share--download:hover {
 }
 
 .PostCard--Title {
+  font-family: "Montserrat Light";
+  font-weight: 100;
   margin: 0;
 }
 
 .PostCard--Content {
+  font-family: "Roboto";
   padding: 0 2.5rem 2.5rem;
 }
 
 .PostCard--Category {
-  font-size: 1.2rem;
+  font-family: "Montserrat Light";
+  font-size: 0.9rem;
   min-height: 1.2em;
   line-height: 1;
   margin: 0.5em 0;

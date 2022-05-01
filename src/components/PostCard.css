@@ -22,15 +22,19 @@
 }
 
 .PostCard--Title {
+  font-family: "Montserrat Light";
+  font-weight: 100;
   margin: 0;
 }
 
 .PostCard--Content {
+  font-family: "Roboto";
   padding: 0 2.5rem 2.5rem;
 }
 
 .PostCard--Category {
-  font-size: 1.2rem;
+  font-family: "Montserrat Light";
+  font-size: 0.9rem;
   min-height: 1.2em;
   line-height: 1;
   margin: 0.5em 0;

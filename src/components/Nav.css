@@ -36,7 +36,6 @@
 .NavLink {
   padding: 0.5rem 1rem;
   display: block;
-  font-family: "Montserrat";
   font-weight: 300;
   transition: color 0.2s, border-bottom-color 0.2s;
   color: inherit;
