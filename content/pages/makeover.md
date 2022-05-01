@@ -2,7 +2,7 @@
 template: HomePage
 slug: makeover
 title: Home Makeovers
-featuredImage: https://ucarecdn.com/9e556b4a-b7b2-40c8-abfd-9d4d6a390781/
+featuredImage: https://ucarecdn.com/4b08f60a-13eb-4f85-9c5b-c3eebaa6eef6/-/crop/892x516/0,218/-/preview/
 subtitle: Unlock your property returns
 meta:
   description: ""
