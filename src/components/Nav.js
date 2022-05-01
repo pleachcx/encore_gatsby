@@ -103,7 +103,7 @@ export class Navigation extends Component {
                     Home Staging
                   </NavLink>
                   <NavLink to="/makeover/" className="Nav--GroupLink">
-                    Makeovers
+                    Home Makeovers
                   </NavLink>
                 </div>
                 
@@ -111,7 +111,7 @@ export class Navigation extends Component {
                 
               </span>
             </div>
-            <NavLink to="/blog/">Blog</NavLink>
+            <NavLink to="/post-categories/our-work">Our Work</NavLink>
             <NavLink to="/contact/">Contact</NavLink>
           </div>
           <button
