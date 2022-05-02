@@ -73,6 +73,7 @@ export class Navigation extends Component {
           <div className="Nav--Links">
             <NavLink to="/">Home</NavLink>
             <NavLink to="/about/">About</NavLink>
+            <NavLink to="/post-categories/info/">Info</NavLink>
 
 
 
@@ -96,7 +97,7 @@ export class Navigation extends Component {
                 tabIndex={0}
                 aria-label="Navigation"
                 role="button"
-              >
+                >
                 Services
                 <div className='Nav--GroupLinks'>
                 <NavLink to="/staging/" className="Nav--GroupLink">
@@ -106,11 +107,9 @@ export class Navigation extends Component {
                     Home Makeovers
                   </NavLink>
                 </div>
-                
-              
-                
               </span>
             </div>
+
             <NavLink to="/post-categories/our-work">Our Work</NavLink>
             <NavLink to="/contact/">Contact</NavLink>
           </div>
@@ -122,6 +121,8 @@ export class Navigation extends Component {
           >
             {active ? <X /> : <Menu />}
           </button>
+
+          
         </div>
       </nav>
     )

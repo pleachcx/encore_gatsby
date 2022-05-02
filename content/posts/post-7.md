@@ -1,58 +1,38 @@
 ---
 template: SinglePost
-title: Chairs
+title: How To Unlock Profits
 status: Featured / Published
 date: '2018-03-27'
 featuredImage: >-
-  https://ucarecdn.com/f540281a-41cf-4bfa-8181-b172e2655fba/-/crop/1632x1777/0,672/-/preview/
+  https://ucarecdn.com/10d4f60c-bd5e-45dc-abfb-47276b28af66/-/preview/1162x693/-/setfill/ffffff/-/format/jpeg/-/progressive/yes/
 excerpt: >-
-  Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam
-  interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus
-  est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
-  pellentesque, lacinia risus ut, imperdiet eros.
+  The key to our success is our understanding of the process, and how we help create appeal that is suited to your majority buyer demographic. 
 categories:
-  - category: News
+  - category: Info
 meta:
   canonicalLink: ''
   description: test meta description
   noindex: false
   title: test meta title
 ---
-Paragraphs are separated by a blank line.
+### Photos
 
-![Test Image](https://ucarecdn.com/ac9898a0-413a-467b-95fa-0a9959c30710/)
+High quality photos of your home are vital because the majority of potential buyers are using their phones to browse properties. Almost 100% of buyer interest is generated through the realestate.com.au website, and the only way to standout is with high quality images of your perfectly presented home.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Id64silK_7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Drive By
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
+After a potential buyer has viewed your property online, they may decide to complete a drive by inspection. They will inspect your location and street appeal.
 
-### Unordered lists:
+### Walkthrough
 
-* this one
-* that one
-* the other one
+If potential buyers are satisfied after driving past, they will attend your open home. Most people will form an opinion of your property within 8 seconds. We want potential buyers to picture themselves living in the home, wanting to own it.
 
-### Ordered lists:
+### Inspection / Building Inspection
 
-1. first item
-2. second item
-3. third item
+The magnifying glass comes out and our serious potential buyers going over every nook and crevice. Any damage or issues found at this point will either decrease our potential buyer's threshold price.
 
-> Block quotes are written like so.
->
-> They can span multiple paragraphs,
-> if you like.
+### Auction
 
-## Heading 2
+The more serious bidders attending the auction, the greater your sale price!
 
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+  [Contact us to learn more](https://encorehomestaging.com.au/contact)
