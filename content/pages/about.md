@@ -30,7 +30,7 @@ With over 20 years’ experience in professional marketing and an astute underst
 
 The above diagram illustrates the steps required to achieve great sales results. The success of each stage dependent on the earlier stages. Successful completion of each stage is critical to the end result.
 
-## Photos
+### Photos
 
 High quality photos of your home are vital because the majority of potential buyers are using their phones to browse properties. Almost 100% of buyer interest is generated through realestate.com.au or domain.com.au. On these websites, the only way to standout is with high quality images of your perfectly presented home.
 
@@ -38,7 +38,7 @@ Get this right and buyers will shortlist your home and attend an inspection. If 
 
 Your home must be stylishly presented, without clutter or damage. 
 
-## Drive By
+### Drive By
 
 After a potential buyer has viewed your property online, they may decide to complete a drive by inspection. They will inspect your location and surrounding areas. 
 
