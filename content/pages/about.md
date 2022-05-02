@@ -12,11 +12,7 @@ meta:
 
 We understand the pure joy and relief after achieving awesome sale results, especially when they surpass all expectations!  That is why we are inspired to help homeowners achieve the same.
 
-Don't leave money on the table. You only get one shot when selling your home. The stakes are high, as selling your home is probably the biggest financial transaction of your life. It is important to understand and following the process required to maximise buyer interest, and achieve a great result.
-
-The key to our success is our understanding of the process!
-
-We know what is important to your potential buyers and how to maximise buyer demand for your home. Quality and detail of presentation is the foundation of attracting potential buyers.   
+Selling your home is probably the biggest financial transaction of your life. While there is opportunity for amazing outcomes, there is also the possibility of underachievement and poor results. The key to our success is our understanding of the process, and how we help create appeal that is suited to your majority buyer demographic.
 
 And that’s where we come in…….
 
