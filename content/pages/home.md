@@ -20,10 +20,13 @@ Our approach has proven time and time again to financially reward and delight se
 
 # Who needs staging?
 
-Anyone that wants a great sales results. Open Agents Katy Holliday, suggest says should expect 7.5% to 12.5% increased sales price if your home is professionally staged. Our own results equated to $100,000 to $300,000 increase in the Melbourne market. 
+Anyone that wants a great sales results. 
 
-Creative layouts add dimension to spaces and draws the eye to your home's favourable attributes. Photographers love professionally styled homes because they produce better photos, which helps boost buyer interest.
+Open Agents [Katy Holliday](https://www.openagent.com.au/blog/expert-guide-property-styling), suggest says should expect 7.5% to 12.5% increased sales price if your home is professionally staged. Our own results are generally between $100,000 to $300,000 increase in the Melbourne market. 
 
+According to [Forbes](https://www.forbes.com/advisor/mortgages/is-home-staging-worth-it/) more than 80% of real estate agents representing buyers said staging helped buyers emotionally connect with homes and led to increased offers. 
+
+[HomeAdvisor](https://www.homeadvisor.com/) suggest professionally staged homes experience between 33% and 50% less time on market. That not only means getting the proceeds of a home sale faster, but also spending less money on added expenses such as rental or storage.
 
 ![](https://ucarecdn.com/530e4c02-4e85-43de-9fcc-9062b9ec8b69/-/crop/1633x2322/0,45/-/preview/)
 
