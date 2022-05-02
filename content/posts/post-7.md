@@ -8,7 +8,7 @@ featuredImage: >-
 excerpt: >-
   The key to our success is our understanding of the process, and how we help create appeal that is suited to your majority buyer demographic. 
 categories:
-  - category: Info
+  - category: FAQ
 meta:
   canonicalLink: ''
   description: test meta description

@@ -8,7 +8,7 @@ featuredImage: >-
 excerpt: >-
   Home Staging is completed by a property stylist. The stylist will create interior layouts that highlight your homes's features. They will select furniture, artwork, rugs and accessories which will be staged in your home while you market it for sale. 
 categories:
-  - category: Info
+  - category: FAQ
 meta:
   description: test meta description
   title: test meta title

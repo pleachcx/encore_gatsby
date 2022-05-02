@@ -8,7 +8,7 @@ excerpt: >-
   DIY home styling is risky because you can inadvertently leave or add things that turn off potential buyers. Here are some things to avoid: Displaying family photos, certificates and memorabilia
   Potential buyers may enjoy looking at your family memories but this will only distract them from what’s important: your house. 
 categories:
-  - category: Info
+  - category: FAQ
 meta:
   canonicalLink: ''
   description: test meta description
