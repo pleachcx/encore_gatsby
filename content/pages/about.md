@@ -10,19 +10,25 @@ meta:
 ---
 ## About Us
 
-When I sold my home, I was filled with both pure joy and relief after achieving an enormous uplift in the sale price that surpassed all expectations!
+We understand the pure joy and relief after achieving awesome sale results, especially when they surpass all expectations!  That is why we are inspired to help homeowners achieve the same.
 
-From that day on, I’ve been inspired to help others achieve the same.
+Don't leave money on the table. You only get one shot when selling your home. The stakes are high, as selling your home is probably the biggest financial transaction of your life. It is important to understand and following the process required to maximise buyer interest, and achieve a great result.
 
-The key to my success was a home makeover and home staging.
+The key to our success is our understanding of the process!
 
-There is a lot of uncertainty and emotion when selling a home, but the one thing you have control over is beautifully presenting your home both inside and outside to maximise the sale price.
+We know what is important to your potential buyers and how to maximise buyer demand for your home. Quality and detail of presentation is the foundation of attracting potential buyers.   
 
 And that’s where we come in…….
 
 The Encore Home Staging approach has proven time and time again to financially reward and delight sellers.
 
 With over 20 years’ experience in professional marketing and an astute understanding of buyer behaviour and property, we ensure that our clients' homes are creatively staged, stand out from competitors and the sale price is maximised.
+
+## How we unlock your profit
+
+![](https://ucarecdn.com/10d4f60c-bd5e-45dc-abfb-47276b28af66/)
+
+The above diagram illustrates the steps required to achieve great sales results.
 
 
 
