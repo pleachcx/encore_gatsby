@@ -2,19 +2,24 @@
 template: SinglePost
 title: How To Unlock Profits
 status: Featured / Published
-date: '2018-03-27'
-featuredImage: >-
-  https://ucarecdn.com/10d4f60c-bd5e-45dc-abfb-47276b28af66/-/preview/1162x693/-/setfill/ffffff/-/format/jpeg/-/progressive/yes/
-excerpt: >-
-  The key to our success is our understanding of the process, and how we help create appeal that is suited to your majority buyer demographic. 
+date: 2018-03-27
+featuredImage: https://ucarecdn.com/10d4f60c-bd5e-45dc-abfb-47276b28af66/-/preview/1162x693/-/setfill/ffffff/-/format/jpeg/-/progressive/yes/
+excerpt: "The key to our success is our understanding of the process, and how we
+  help create appeal that is suited to your majority buyer demographic. "
 categories:
   - category: FAQ
 meta:
-  canonicalLink: ''
+  canonicalLink: ""
   description: test meta description
   noindex: false
   title: test meta title
 ---
+![](https://ucarecdn.com/027cb279-64a2-4785-99be-9d8ce919b50b/)
+
+# Home Buying Process
+
+The sales funnel above describes why it is critical to complete each milestone. Every step in the process is dependent on the step before it. Therefore, it is critical to successfully complete each milestone in order to achieve a great sales price.
+
 ### Photos
 
 High quality photos of your home are vital because the majority of potential buyers are using their phones to browse properties. Almost 100% of buyer interest is generated through the realestate.com.au website, and the only way to standout is with high quality images of your perfectly presented home.
