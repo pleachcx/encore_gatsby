@@ -1,57 +1,36 @@
 ---
 template: SinglePost
-title: Sign
+title: Common Mistakes in DIY Styling
 status: Featured / Published
 date: '2018-03-27'
 featuredImage: 'https://ucarecdn.com/157877ea-a2cb-49b6-8130-768fbe1a60a7/'
 excerpt: >-
-  Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu. Nullam
-  interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque lectus
-  est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
-  pellentesque, lacinia risus ut, imperdiet eros.
+  DIY home styling is risky because you can inadvertently leave or add things that turn off potential buyers. Here are some things to avoid: Displaying family photos, certificates and memorabilia
+  Potential buyers may enjoy looking at your family memories but this will only distract them from what’s important: your house. 
 categories:
-  - category: News
+  - category: Info
 meta:
   canonicalLink: ''
   description: test meta description
   noindex: false
   title: test meta title
 ---
-Paragraphs are separated by a blank line.
+# Common mistakes in DIY home styling
 
-![Test Image](https://ucarecdn.com/ac9898a0-413a-467b-95fa-0a9959c30710/)
+DIY home styling is risky because you can inadvertently leave or add things that turn off potential buyers. Here are some things to avoid:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Id64silK_7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### Displaying family photos, certificates and memorabilia
+    
+Potential buyers may enjoy looking at your family memories but this will only distract them from what’s important: your house. For a successful open house, visitors must be focused on what your home can offer.
+    
+### Storing items out of sight in cupboards
+    
+While some potential buyers won’t bother opening up cupboards during their visit, others will want to look behind every closed door. Hiding items in these places will only serve to make storage look over packed and unorganised.
 
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
+### Leaving bad habits in plain sight
+    
+Whether it’s wearing shoes inside or overfilling your hanging space, don’t leave these things for potential buyers to see. They may interpret the smallest thing as an indication that the home was not well cared for. Aim to remove any trace of your busy lifestyle and present a well-kept, neutral home instead.
+    
+### Styling rooms to your personal taste
 
-### Unordered lists:
-
-* this one
-* that one
-* the other one
-
-### Ordered lists:
-
-1. first item
-2. second item
-3. third item
-
-> Block quotes are written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-## Heading 2
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+Everyone has different tastes and preferred lifestyles. Styling to your own preferences serves only to alienate potential buyers who don’t share your tastes. Home styling should always aim for neutrality to appeal to as many different people as possible.
