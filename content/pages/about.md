@@ -28,7 +28,7 @@ With over 20 years’ experience in professional marketing and an astute underst
 
 ![](https://ucarecdn.com/10d4f60c-bd5e-45dc-abfb-47276b28af66/)
 
-The above diagram illustrates the steps required to achieve great sales results. The success of each stage dependent on the earlier stages. Successful completion of each stage is critical to the end result.
+The above diagram illustrates the steps required to achieve great sales results. 
 
 ### Photos
 
