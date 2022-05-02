@@ -38,11 +38,11 @@ Home Staging can help find buyers, get more offers, increase your sale price and
 
 **Help your listing stand out online**. With so much competition, your home can easily get lost in the sea of listings across the web. It’s important to do everything you can to stand out. Professionally staged homes are eye-catching and can encourage more buyers to consider your property, even before they see it in person.
 
-**Make your home feel aspirational**. It’s important that the home shopper falls in love with the property they ultimately choose to buy. You can help create that emotional connection between a buyer and your home by staging it. Professional colour combinations, smart layouts and unexpected pieces help the buyer develop positive feelings about the space and imagine living in it.
+**Make your home feel aspirational**. It’s important that the home shopper falls in love with the property they ultimately choose to buy. You can help create that emotional connection between a buyer and your home by staging it. 
 
-**Show ways to use extra rooms and funky floor plans**. When a room is completely empty, it can be tough to envision how it might be used. That’s especially true if there’s an unusual layout or dated features. Staging can help buyers see the potential of a room and how to get the most value out of it. Plus, empty rooms can actually look smaller than they really are; staging can help them appear larger.
+**Show ways to use extra rooms and funky floor plans**. When a room is completely empty, it can be tough to envision how it might be used. Staging can help buyers see the potential of a room and how to get the most value out of it.
 
-**Increase the selling price**. If your home has been sitting on the market for a while and you’ve been considering cutting the price to help move it, you might want to try staging it instead. Staging not only tends to help move properties faster, you could end up selling for higher than expected.
+**Increase the selling price**. If your home has been sitting on the market for a while, and you’ve been considering cutting the price to help move it, you might want to try staging it instead. Staging not only tends to help move properties faster, you could end up selling for higher than expected.
 
 ![](https://ucarecdn.com/3c59a6b2-1e69-4cb5-932a-8d72ebf760d1/-/preview/-/enhance/93/)
 
