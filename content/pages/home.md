@@ -16,20 +16,26 @@ We understand how challenging the selling process can be, and aim to integrate o
 
 Our approach has proven time and time again to financially reward and delight sellers.
 
-
-
 ![]()
 
-# Contrary to popular belief
+# Who needs staging?
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock.
+Anyone that wants a great sales results. The majority of real estate agents agree that staged properties entice more offers and sell at higher prices. 
 
-Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. 
+Creative layouts add dimension to spaces and draws the eye to your home's favourable attributes. Styled homes feel bigger inside and help buyers imagine how to use each space. 
 
-Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. 
+Photographers love professionally styled homes because they produce better photos, which helps boost buyer interest.
+
+   
 
 ![](https://ucarecdn.com/530e4c02-4e85-43de-9fcc-9062b9ec8b69/-/crop/1633x2322/0,45/-/preview/)
 
-# Lorem Ipsum
+# How much does it cost?
 
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text.
+Home Staging cost vary because of differences in homes and the amount of furniture required.  You can expect to pay anywhere from $2,500 to $8,000 for home staging. The following may influence the cost for your home:
+
+* Size of home
+* Full staging / partial staging
+* Repairs, maintenance or makeover
+
+Quoting your home is fast and easy. It is also obligation free.
