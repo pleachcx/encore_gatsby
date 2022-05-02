@@ -20,11 +20,10 @@ Our approach has proven time and time again to financially reward and delight se
 
 # Who needs staging?
 
-Anyone that wants a great sales results. The majority of real estate agents agree that staged properties entice more offers and sell at higher prices. 
+Anyone that wants a great sales results. Open Agents Katy Holliday, suggest says should expect 7.5% to 12.5% increased sales price if your home is professionally staged. Our own results equated to $100,000 to $300,000 increase in the Melbourne market. 
 
-Creative layouts add dimension to spaces and draws the eye to your home's favourable attributes. Styled homes feel bigger inside and help buyers imagine how to use each space. 
+Creative layouts add dimension to spaces and draws the eye to your home's favourable attributes. Photographers love professionally styled homes because they produce better photos, which helps boost buyer interest.
 
-Photographers love professionally styled homes because they produce better photos, which helps boost buyer interest.
 
 ![](https://ucarecdn.com/530e4c02-4e85-43de-9fcc-9062b9ec8b69/-/crop/1633x2322/0,45/-/preview/)
 
