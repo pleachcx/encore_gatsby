@@ -34,14 +34,12 @@ The above diagram illustrates the steps required to achieve great sales results.
 
 High quality photos of your home are vital because the majority of potential buyers are using their phones to browse properties. Almost 100% of buyer interest is generated through realestate.com.au or domain.com.au. On these websites, the only way to standout is with high quality images of your perfectly presented home.
 
-Get this right and buyers will shortlist your home and attend an inspection. If your photos are not high quality, you simply will not attract many buyers.
-
-Your home must be stylishly presented, without clutter or damage. 
-
 ### Drive By
 
-After a potential buyer has viewed your property online, they may decide to complete a drive by inspection. They will inspect your location and surrounding areas. 
+After a potential buyer has viewed your property online, they may decide to complete a drive by inspection. They will inspect your location and street appeal.
 
-Street appeal is important because this is the first impression the potential buyers have. You should ensure your home looks fresh and gardens are tidy.
+
+
+
 
   [Contact us to learn more](https://encorehomestaging.com.au/contact)
