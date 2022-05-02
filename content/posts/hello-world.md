@@ -1,9 +1,9 @@
 ---
 template: SinglePost
-title: Floor Board Transformation
+title: Traditional Home Ashburton
 status: Featured / Published
 date: 2018-03-27
-featuredImage: https://ucarecdn.com/13ce50b7-4afd-4c5a-8c96-7ecf1fc4b050/-/crop/1367x934/279,2/-/preview/
+featuredImage: https://ucarecdn.com/b4d2a155-2603-446c-8b44-cdab99274041/-/crop/882x585/0,176/-/preview/
 excerpt: Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu.
   Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque
   lectus est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
@@ -16,41 +16,6 @@ meta:
   noindex: false
   title: test meta title
 ---
-Paragraphs are separated by a blank line.
+<iframe width="1177" height="662" src="https://www.youtube.com/embed/KhFUJ1QT4SQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![Test Image](https://ucarecdn.com/ac9898a0-413a-467b-95fa-0a9959c30710/)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Id64silK_7M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-The second paragraph. This is placeholder text that our web designers put here to make sure words appear properly on your website. _Italic_, **bold**, and `monospace`.
-
-### Unordered lists:
-
-* this one
-* that one
-* the other one
-
-### Ordered lists:
-
-1. first item
-2. second item
-3. third item
-
-> Block quotes are written like so.
->
-> They can span multiple paragraphs,
-> if you like.
-
-## Heading 2
-
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
+![](https://ucarecdn.com/f0515337-6dfa-4365-ad57-4e23518d453a/-/crop/892x575/0,182/-/preview/)
