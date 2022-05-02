@@ -9,7 +9,7 @@ address: 21 Lansdowne St, Blairgowrie VIC 3942
 template: ContactPage
 title: Contact Us
 subtitle: |-
-  ![](https://ucarecdn.com/50b73dde-70a7-4de2-a5c8-b641a28198e3/)
+  ![]()
 
   Get In Touch
 email: sharon@encorehomestaging.com.au
