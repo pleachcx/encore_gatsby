@@ -34,7 +34,7 @@ Our approach has proven time and time again to financially reward and delight se
 
 Anyone that wants a great sales results. 
 
-Open Agents [Katy Holliday](https://www.openagent.com.au/blog/expert-guide-property-styling), suggest says should expect 7.5% to 12.5% increased sales price if your home is professionally staged. Our own results are generally between $100,000 to $300,000 increase in the Melbourne market. 
+Open Agents [Katy Holliday](https://www.openagent.com.au/blog/expert-guide-property-styling), suggest says should expect 7.5% to 12.5% increased sales price if your home is professionally staged. Our own results are generally between $100,000 to $300,000 increase, within the Melbourne market. 
 
 According to [Forbes](https://www.forbes.com/advisor/mortgages/is-home-staging-worth-it/) more than 80% of real estate agents representing buyers said staging helped buyers emotionally connect with homes and led to increased offers. 
 

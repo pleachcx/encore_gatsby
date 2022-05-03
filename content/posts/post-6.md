@@ -4,9 +4,7 @@ title: Home Staging Process
 status: Published
 date: 2018-05-25
 featuredImage: https://ucarecdn.com/9bcf54c0-f4e6-450f-afe3-f5c01cc498f0/-/crop/2764x1620/0,0/-/preview/
-excerpt: "What to expect and the home staging process. The staging process
-  consist of 7 steps. Firstly we will discuss the job with you directly. Let us
-  know what your needs and expectations "
+excerpt: What to expect and the home staging process. The staging process consist of 7 steps. Firstly we will discuss the job with you directly. Let us know what your needs and expectations 
 categories:
   - category: FAQ
 meta:
