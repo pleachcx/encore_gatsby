@@ -8,8 +8,8 @@ excerpt: What to expect and the home staging process. The staging process consis
 categories:
   - category: FAQ
 meta:
-  description: test meta description
-  title: test meta title
+  description: 
+  title: Home Staging Process
 ---
 ![](https://ucarecdn.com/af3c21e2-1c97-44f0-a059-676898b61592/)
 
