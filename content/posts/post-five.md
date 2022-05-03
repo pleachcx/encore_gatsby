@@ -1,18 +1,17 @@
 ---
 template: SinglePost
-title: Styling to Sell - Tips From Top Agents
+title: Styling to Sell 
 status: Published
 date: 2018-05-25
-featuredImage: https://ucarecdn.com/f1b61206-4f5f-479c-9de9-0b19e597c0ea/
-excerpt: This is placeholder text that our web designers put here to make sure
-  words appear properly on your website. This text is going to be replaced once
-  the website is completed. You are currently reading text that is written in
-  English, not any other language.
+featuredImage: 'https://www.ljhooker.com.au/getmedia/77826632-8ccd-4eae-a65c-fc9b073f838c/why-buy-ljhooker-main.jpg.aspx?width=658&height=317&ext=.jpg'
+excerpt: Competition is high in the real estate market...so how do you make your property stand out from the crowd, attract more buyer attention and sell quickly? The answer from 98% of our top agents is to 'Style your Property to Sell'.
+categories:
+  - category: FAQ
 meta:
-  description: test meta description
-  title: test meta title
+  description: Styling to Sell
+  title: Styling to Sell
 ---
-![](https://ucarecdn.com/4c2589a3-c1e8-4d05-a412-def0bb87bbd3/)
+![](https://www.ljhooker.com.au/getmedia/77826632-8ccd-4eae-a65c-fc9b073f838c/why-buy-ljhooker-main.jpg.aspx?width=658&height=317&ext=.jpg)
 
 # Styling to Sell - Tips From Top Agents
 

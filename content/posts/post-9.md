@@ -15,7 +15,7 @@ meta:
   canonicalLink: ""
   description: test meta description
   noindex: false
-  title: test meta title
+  title: Common Mistakes
 ---
 ![](https://ucarecdn.com/d62e393e-7897-4a40-a84d-abb6902fd1ec/)
 

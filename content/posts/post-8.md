@@ -4,15 +4,17 @@ title: What Is Home Staging?
 status: Published
 date: '2018-05-25'
 featuredImage: >-
-  https://ucarecdn.com/d6ad4f3e-40a1-49cf-8cf0-f06a25d08544/-/crop/1690x1484/0,882/-/preview/
+  https://ucarecdn.com/00d6dba4-b778-4e20-b18e-e23324562b61/
 excerpt: >-
   Home Staging is completed by a property stylist. The stylist will create interior layouts that highlight your homes's features. They will select furniture, artwork, rugs and accessories which will be staged in your home while you market it for sale. 
 categories:
   - category: FAQ
 meta:
-  description: test meta description
-  title: test meta title
+  description: 
+  title: What Is Home Staging?
 ---
+
+![](https://ucarecdn.com/00d6dba4-b778-4e20-b18e-e23324562b61/)
 # What Is Home Staging?
 
 Home Staging is completed by a property stylist. The stylist will create interior layouts that highlight your homes's features. They will select furniture, artwork, rugs and accessories which will be staged in your home while you market it for sale. 
