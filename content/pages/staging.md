@@ -18,7 +18,7 @@ Making a home look beautiful is a true artform and is necessary when selling a h
 
 To maximise your sale price, we ensure that each space not only looks appealing, but also adds value to achieve a maximum return. We go deeper and understand your buyers.
 
-Buyers have many considerations when choosing a home and it’s important to know what they are and how your home can be specifically presented to satisfy them.  
+Buyers have many considerations when choosing a home and it’s important to know what they are and how your home can be specifically presented to appeal to them.  
 
 The Encore Home Staging approach has proven time and time again to financially reward and delight our clients.
 
