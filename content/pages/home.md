@@ -12,7 +12,7 @@ meta:
 
 Encore Home Staging combines highly creative property styling and presentation services, with decades of property and marketing experience. Our mission is to present your home, so you gain the broadest appeal to your buyer demographic.
 
-We understand how challenging the selling process can be, and aim to integrate our workflow with your requirements.
+We understand how challenging the selling process can be, and aim to help make it easier for you. 
 
 Our approach has proven time and time again to financially reward and delight sellers.
 
@@ -44,6 +44,5 @@ Home Staging cost vary because of differences in homes and the amount of furnitu
 
 * Size of home
 * Full staging / partial staging
-* Repairs, maintenance or makeover
 
 Quoting your home is fast and easy. It is also obligation free.
