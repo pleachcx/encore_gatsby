@@ -12,7 +12,7 @@ meta:
 
 Before hitting the market, most homes require some work.  Some fresh paint, a few house repairs, rejuvenation of floors, kitchens, bathrooms, gardening, fencing etc. 
 
-Presenting your home at its best is critical, and the only way to maximise your sale price. 
+Presenting your home at its best is critical to maximising  your sale price. 
 
 We can enlist trades to give your home the makeover it deserves, and you can relax knowing that your home will be presented at its best. 
 
