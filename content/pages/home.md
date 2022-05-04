@@ -10,9 +10,9 @@ meta:
 ---
 # Our Approach
 
-Encore Home Staging combines highly creative property styling and presentation services, with decades of property and marketing experience. Our mission is to present your home, so you gain the broadest appeal to your buyer demographic.
+Encore Home Staging combines highly creative property styling and presentation services, with decades of property and marketing experience. Our mission is to present your home so that you attract the most number of buyers. 
 
-We understand how challenging the selling process can be, and aim to help make it easier for you. 
+We understand how challenging the selling process can be, and we aim to make it easier for you. 
 
 Our approach has proven time and time again to financially reward and delight sellers.
 
