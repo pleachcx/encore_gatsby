@@ -10,12 +10,10 @@ meta:
 ---
 ## Home Makeovers
 
-  Before hitting the market, most homes require some work.  Encore Home Staging aim to consolidate and advise on all facets of property-presentation.
+Before hitting the market, most homes require some work.  Some fresh paint, a few house repairs, rejuvenation of floors, kitchens, bathrooms, gardening, fencing etc. 
 
-  Some fresh paint, a few house repairs, rejuvenation of floors, kitchens, bathrooms, gardening, fencing etc. 
+Presenting your home at its best is critical, and the only way to maximise your sale price. 
 
-Presenting your home at its absolute best is critical, and the only way to maximise your sale price. 
-
-  We can enlist trades to give your home the makeover it deserves, and you can relax knowing that your home will be presented at its best. 
+We can enlist trades to give your home the makeover it deserves, and you can relax knowing that your home will be presented at its best. 
 
   [Contact us to learn more](https://encorehomestaging.com.au/contact)
