@@ -10,10 +10,13 @@ meta:
 ---
 ## Home Makeovers
 
-Before hitting the market, most homes require some work.  Some fresh paint, a few house repairs, rejuvenation of floors, kitchens, bathrooms, gardening, fencing etc. 
 
-Presenting your home at its best is critical to maximising your sale price. 
+Many homes simply need a quick facelift before going to market. A home makeover ensures that your home is looking at its absolute best inside and out.
 
-We can enlist trades to give your home the makeover it deserves, and you can relax knowing that your home will be presented at its best. 
+Some fresh paint, a few house repairs, rejuvenation of floors, kitchens, bathrooms, gardening, fencing etc.
+
+We recommend that you don’t spend one more dollar than you need to on a home makeover in order to achieve the biggest return.
+
+We can enlist trades to give your home the makeover it deserves and you can relax knowing that your home will be presented at its best.
 
   [Contact us to learn more](https://encorehomestaging.com.au/contact)
