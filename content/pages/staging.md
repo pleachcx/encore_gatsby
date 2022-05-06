@@ -22,4 +22,17 @@ Buyers have many considerations when choosing a home and it’s important to kno
 
 The Encore Home Staging approach has proven time and time again to financially reward and delight our clients.
 
+  
+
+**How much does it cost?**
+
+A Home Staging investment can vary in cost because of the differences in homes and the amount of furniture required. You can expect to invest anywhere from $3,000 to $7,000. The following may influence the cost of staging your home:
+
+* Size of home
+* Full staging / partial staging
+
+The one thing industry experts agree on is that you’ll have no problems achieving a positive Return On Investment (ROI) when staging your home.
+
+Quoting your home is fast and easy. It is also obligation free.
+
   [Contact us to learn more](https://encorehomestaging.com.au/contact)
