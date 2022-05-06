@@ -40,7 +40,7 @@ Leave it with us and save yourself both time, money and a potential headache.
 
 **Step 2** – We provide you with a home presentation proposal that will maximise your sale price. We won’t recommend spending one dollar more than you need to in order to achieve this.
 
-**Step 3** – Upon your approval, we assign a skilled team, typically a stylist and trades, to deliver your requirements to present your home and maximise your sale price. 
+**Step 3** – Upon your approval, we assign a skilled team, typically a stylist and trades, to deliver your requirements.
 
 After engaging our services, clients feel confident knowing that they've done everything within their control to hit their dream sale price.
 
