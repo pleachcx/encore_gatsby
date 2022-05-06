@@ -22,7 +22,7 @@ Our approach has proven time and time again to financially reward and delight se
 
 ![](https://ucarecdn.com/f87e2c83-51d5-4032-a4e0-aad31ec0f33c/-/preview/-/enhance/91/)
 
-## **Our unique presentation services will help you achieve your dream sale price**
+## **Our unique presentation services help you achieve your dream sale** 
 
 We specialise in **home makeover** and **home staging** **presentation services** to maximise the value of homes for sale.
 
