@@ -10,7 +10,7 @@ meta:
 ---
 ## Home Staging
 
-We specialise in beautifully styling and adding value to homes for sale both indoors and outdoors.  
+We specialise in beautifully styling (indoors & outdoors) and adding value to homes for sale.
 
 Our primary goal is to maximise your sale price.  
 
