@@ -20,7 +20,7 @@ We specialise in **home makeover** and **home staging** **presentation services*
 
 We uniquely offer both services under the one roof, providing you with more options to add value to your home whilst saving you time and money.
 
-Our presentation services enable our clients to be confident that they’ve done everything within their control to hit their dream sale price.
+Our presentation services leave our clients feeling confident that they’ve done everything within their control to hit their dream sale price.
 
 With over 20 years’ experience in professional marketing and an astute understanding of buyer behaviour and property, we ensure that our clients' homes are creatively staged, stand out from competitors and the sale price is maximised.
 
