@@ -16,9 +16,7 @@ Encore Home Staging combines creative property styling and presentation services
 
 Our lovely clients come to us to maximise the appeal and value of their homes ensuring that they achieve the best possible price.
 
-Open Agents [Katy Holliday](https://www.openagent.com.au/blog/expert-guide-property-styling), suggests you should expect a 7.5% to 12.5% increased sale price if your home is professionally staged and presented well (interior and exterior).
-
-Our own results support this and are generally between a $100,000 to $300,000 increase within the Melbourne market.
+Open Agents [Katy Holliday](https://www.openagent.com.au/blog/expert-guide-property-styling), suggests you should expect a 7.5% to 12.5% increased sale price if your home is professionally staged and presented well (interior and exterior).  Our own results support this and are generally between a $100,000 to $300,000 increase within the Melbourne market.
 
 Our approach has proven time and time again to financially reward and delight sellers.
 
