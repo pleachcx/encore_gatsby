@@ -34,9 +34,9 @@ We uniquely offer both services under the one roof, providing you with greater o
 
 It takes a team of people to prepare a home for sale from stylists to trades.
 
-At Encore Home Staging, we offer you the convenience of dealing with one person who will be with you from start to finish.  This is a huge saving of your time, during a busy period of your life. 
+At Encore Home Staging, we offer you the convenience of dealing with one person who will be with you from start to finish.  Our experienced and friendly client manager will ensure that everything is done so that your home is market ready. Just leave it with us!
 
-Our experienced and friendly client manager will ensure that everything is done so that your home is market ready. Just leave it with us!
+This is a huge saving of your time, during a busy period of your life. 
 
 **How we prepare your home for sale:**
 
