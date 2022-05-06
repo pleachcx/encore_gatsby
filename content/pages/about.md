@@ -28,6 +28,6 @@ The Encore Home Staging approach has proven time and time again to financially r
 
 We’d love to help you too.
 
-<!--EndFragment-->
+
 
 ![]()
