@@ -14,8 +14,8 @@ Most homes need a little work before going to market. A home makeover ensures th
 
 Some fresh paint, a few house repairs, rejuvenation of floors, kitchens, bathrooms, gardening, fencing etc.
 
-We recommend that you don’t spend one more dollar than you need to in order to achieve the biggest return.  The art is in knowing the right amount to invest. 
-
 We can enlist trades to give your home the makeover it deserves and you can relax knowing that your home will be presented at its best.
+
+We recommend that you don’t spend one more dollar than you need to in order to achieve the biggest return.  The art is in knowing the right amount to invest for your home.
 
   [Contact us to learn more](https://encorehomestaging.com.au/contact)
