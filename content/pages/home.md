@@ -56,8 +56,8 @@ After engaging our services, clients feel confident knowing that they've done ev
 
 
 
-![](https://ucarecdn.com/3c59a6b2-1e69-4cb5-932a-8d72ebf760d1/-/preview/-/enhance/93/)
+![]()
 
-[](https://www.homeadvisor.com/)Home Staging can help find buyers, get more offers, increase your sale price and sell faster.  
+
 
 ![](https://ucarecdn.com/530e4c02-4e85-43de-9fcc-9062b9ec8b69/-/crop/1633x2322/0,45/-/preview/)
