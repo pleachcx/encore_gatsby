@@ -34,8 +34,6 @@ It takes a team of people to prepare a home for sale from stylists to trades.
 
 At Encore Home Staging, we offer you the convenience of dealing with one person from start to finish.  One of our experienced and friendly client managers will ensure that everything is done so that your home is market ready. Just leave it with us!
 
-This is a huge saving of your time, during a busy period of your life. 
-
 ## **3 steps to  prepare your home for sale:**
 
 **Step 1** – We meet with you to discuss your needs and requirements (big or small) during a no obligation, free appointment.
