@@ -26,7 +26,7 @@ Our approach has proven time and time again to financially reward and delight se
 
 We specialise in **home makeover** and **home staging** **presentation services** to maximise the value of homes for sale.
 
-We uniquely offer both services under the one roof, providing you with greater options to add value to your home whilst saving you time and money.
+We uniquely offer both services under the one roof, providing you with more options to add value to your home whilst saving you time and money.
 
 **Our approach**
 
