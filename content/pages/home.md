@@ -22,7 +22,7 @@ Our approach has proven time and time again to financially reward and delight se
 
 ![](https://ucarecdn.com/f87e2c83-51d5-4032-a4e0-aad31ec0f33c/-/preview/-/enhance/91/)
 
-##  **Our unique presentation services will help you achieve your dream sale price**
+## **Our unique presentation services will help you achieve your dream sale price**
 
 We specialise in **home makeover** and **home staging** **presentation services** to maximise the value of homes for sale.
 
@@ -30,9 +30,9 @@ We uniquely offer both services under the one roof, providing you with more opti
 
 ## **Our approach**  
 
-It takes a team of people to prepare a home for sale from stylists to trades.  
+It takes a team of people to prepare a home for sale from stylists to trades.  Leave it with us and save yourself both time and money. 
 
-At Encore Home Staging, we offer you the convenience of dealing with one person from start to finish.  One of our experienced and friendly client managers will ensure that everything is done so that your home is market ready. Just leave it with us!
+At Encore Home Staging, you can deal with one person from start to finish.  Our experienced and friendly client managers ensure that everything is done so that your home is market ready. 
 
 ## **3 steps to  prepare your home for sale:**
 
