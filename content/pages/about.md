@@ -18,7 +18,7 @@ Our lovely clients are homeowners who simply do not want to sell for less than w
 
 We specialise in **home makeover** and **home staging** **presentation services** to maximise the value of homes for sale. Presenting your whole home at its best is critical for your success.
 
-We uniquely offer both services under the one roof, providing you with greater options to add value to your home whilst saving you time and money.
+We uniquely offer both services under the one roof, providing you with more options to add value to your home whilst saving you time and money.
 
 Our presentation services enable our clients to be confident that they’ve done everything within their control to hit their dream sale price.
 
@@ -27,7 +27,5 @@ With over 20 years’ experience in professional marketing and an astute underst
 The Encore Home Staging approach has proven time and time again to financially reward and delight sellers.
 
 We’d love to help you too.
-
-
 
 ![]()
