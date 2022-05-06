@@ -28,9 +28,9 @@ We specialise in **home makeover** and **home staging** **presentation services*
 
 We uniquely offer both services under the one roof, providing you with more options to add value to your home whilst saving you time and money.
 
-## It takes a team of people from stylists to trades
+## We take the stress out it
 
-At Encore Home Staging, you only need to deal with one person from start to finish.  Our experienced and friendly client managers ensure that everything is done so that your home is market ready. 
+It often takes a team of people from stylists to trades. At Encore Home Staging, you only need to deal with one person from start to finish.  Our experienced and friendly client managers ensure that everything is done so that your home is market ready. 
 
 Leave it with us and save yourself both time, money and a potential headache.
 
