@@ -8,7 +8,7 @@ meta:
   description: This is a meta description.
   title: Encore Home Staging
 ---
-## **Presenting your home at its best is critical for success** 
+## **Presenting your home at its best is critical for success**
 
 Encore Home Staging combines creative property styling and presentation services, with decades of property and marketing experience. We understand how challenging the selling process can be - our goal is to help make it easier for you to get the best result.
 
@@ -22,7 +22,7 @@ Our approach has proven time and time again to financially reward and delight se
 
 ![](https://ucarecdn.com/f87e2c83-51d5-4032-a4e0-aad31ec0f33c/-/preview/-/enhance/91/)
 
-## **Our unique presentation services can help achieve your dream sale** 
+## **Our unique presentation services can help achieve your dream sale**
 
 We specialise in **home makeover** and **home staging** **presentation services** to maximise the value of homes for sale.
 
@@ -30,7 +30,7 @@ We uniquely offer both services under the one roof, providing you with more opti
 
 ## We take the stress out it
 
-It often takes a team of people from stylists to trades to prepare a home for sale. At Encore Home Staging, you only need to deal with one person from start to finish.  Our experienced and friendly client managers ensure that everything is done so that your home is market ready. 
+It often takes a team of people from stylists to trades to prepare a home for sale. At Encore Home Staging, our experienced and friendly client managers, manage the team for you and ensure that your home is market ready. 
 
 Leave it with us and save yourself both time, money and a potential headache.
 
