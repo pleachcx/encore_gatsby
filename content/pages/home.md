@@ -10,10 +10,7 @@ meta:
 ---
 ## **Presenting your home at its best is critical for the success of your sale.**
 
-Encore Home Staging combines creative property styling and presentation services, with decades of property and marketing experience. 
-
-We understand how challenging the selling process can be - our goal is to help make it easier for you to get the best result.
-  
+Encore Home Staging combines creative property styling and presentation services, with decades of property and marketing experience. We understand how challenging the selling process can be - our goal is to help make it easier for you to get the best result.
 
 ## **Don’t sell your home for less than what it’s worth**
 
@@ -25,10 +22,7 @@ Our own results support this and are generally between a $100,000 to $300,000 in
 
 Our approach has proven time and time again to financially reward and delight sellers.
 
-
-
 ![](https://ucarecdn.com/f87e2c83-51d5-4032-a4e0-aad31ec0f33c/-/preview/-/enhance/91/)
-
 
  **Our unique presentation services will help you achieve your dream sale price**
 
@@ -54,10 +48,6 @@ Our experienced and friendly client manager will ensure that everything is done 
 
 After engaging our services, clients feel confident knowing that they've done everything within their control to hit their dream sale price.
 
-
-
 ![]()
-
-
 
 ![](https://ucarecdn.com/530e4c02-4e85-43de-9fcc-9062b9ec8b69/-/crop/1633x2322/0,45/-/preview/)
