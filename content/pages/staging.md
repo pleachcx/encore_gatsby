@@ -2,7 +2,7 @@
 template: HomePage
 slug: Staging
 title: Home Staging
-featuredImage: https://ucarecdn.com/ece92460-308b-4945-850d-3e7d375d7329/
+featuredImage: https://ucarecdn.com/309cfd0f-e656-416f-a308-b864b608876e/
 subtitle: Unlock your property returns
 meta:
   description: Unlock your property returns
