@@ -1,12 +1,15 @@
 ---
 template: SinglePost
 title: Floor Transformation
-status: Published
-date: 2022-05-24
+status: Featured
+date: 2022-05-03
 featuredImage: https://ucarecdn.com/6dba502a-cc61-41bd-ba84-c003c8595629/-/crop/1382x936/267,0/-/preview/
 excerpt: Floors transformed etc etc
 categories:
   - category: Our Work
+meta:
+  title: Floor Transformation
+  description: Renovated flooring
 ---
 ![](https://ucarecdn.com/72c63015-0988-49d7-903c-d49c9722441e/-/crop/1377x936/277,0/-/preview/)
 
