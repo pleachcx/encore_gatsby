@@ -4,22 +4,27 @@ title: Kitchen Transformation
 status: Published
 date: 2022-05-02
 featuredImage: https://ucarecdn.com/f87c472f-0450-461c-a66d-0d89a5d36e3d/-/crop/892x562/0,201/-/preview/
-excerpt: Transforming your kitchen may be cheaper then you think. Our team perform onsite kitchen improvements including two-pack spraying cabinets and tiles, upgrading bench tops, repairs and fabrication. The transformation costs are a fraction of replacing your entire kitchen. 
+excerpt: Kitchen transformation
 categories:
   - category: Our Work
 meta:
   description: Before and After
   title: Kitchen Transformation
 ---
+
+ “Paint is liquid gold” has never been truer than in this home.
+
+The homeowners invested in a mini home makeover by refreshing their kitchen and transforming it into an appealing contemporary Hamptons kitchen.
+
+We achieved the sought-after look without replacing the doors but by painting the existing kitchen doors a crisp white that emphasised the shaker design and upgraded the cabinet door knobs.
+
 ![](https://ucarecdn.com/258cea48-780a-4d32-bde1-80fae938ff5f/)
 
 Transforming your kitchen may be cheaper then you think. Our team perform onsite kitchen improvements including two-pack spraying cabinets and tiles, upgrading bench tops, repairs and fabrication. The transformation costs are a fraction of replacing your entire kitchen. 
 
 ![](https://ucarecdn.com/a16e1f9f-053f-41fc-8cf6-2b5e9b40567c/)
 
-
-
-This is placeholder text that our web designers put here to make sure words appear properly on your website.
+We also removed the Japanese style laundry doors next to the kitchen and simply installed complementary doors creating an overall appealing kitchen and dining space that wowed buyers.
 
 ![](https://ucarecdn.com/7fe0aadf-ecab-4047-af79-0589f5992fea/)
 
