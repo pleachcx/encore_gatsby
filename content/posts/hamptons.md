@@ -2,7 +2,7 @@
 template: SinglePost
 title: Contemporary Hamptons Style
 status: Published
-date: 2022-05-02
+date: 2022-05-22
 featuredImage: https://ucarecdn.com/3c1c7e55-b002-4b5c-9bd9-6ed8bd7cc370/-/crop/892x585/0,178/-/preview/
 excerpt: Our Work
 categories:

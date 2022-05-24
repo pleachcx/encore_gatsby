@@ -2,7 +2,7 @@
 template: SinglePost
 title: Traditional
 status: Featured / Published
-date: 2022-03-27
+date: 2022-05-20
 featuredImage: https://ucarecdn.com/b2101b0f-b148-4a28-8270-039d77173a10/
 excerpt: Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu.
   Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque
@@ -24,7 +24,9 @@ Character adds value but too much character can make a home 'quirky' and that's 
 
 Watch this video to see how we balanced 'character' with broad appeal for this traditional home.
 
-<iframe width="1177" height="662" src="https://www.youtube.com/embed/KhFUJ1QT4SQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1177" height="662" src="https://www.youtube.com/embed/KhFUJ1QT4SQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+-
+
 
 ![](https://ucarecdn.com/bbae43ab-97f0-4980-aa35-149ba65fa43b/)
 

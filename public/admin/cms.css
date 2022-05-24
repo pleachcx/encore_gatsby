@@ -2161,7 +2161,7 @@ a.pswp__share--download:hover {
 }
 
 .SinglePost--BackButton {
-  color: white;
+  color: rgba(255,214,10,1);
   position: relative;
   display: -webkit-box;
   display: -ms-flexbox;
