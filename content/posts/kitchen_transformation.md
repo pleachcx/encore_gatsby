@@ -15,7 +15,7 @@ meta:
 
 The homeowners invested in a mini home makeover by refreshing their kitchen and transforming it into an appealing contemporary Hamptons kitchen.
 
-We achieved the sought-after look by painting the existing kitchen doors a crisp white that showcased the shaker design and upgraded the cabinet door knobs.
+We achieved the sought-after look by painting the existing kitchen doors a crisp white and upgrading the cabinet door knobs.
 
 ![](https://ucarecdn.com/258cea48-780a-4d32-bde1-80fae938ff5f/)
 
@@ -23,7 +23,7 @@ Transforming your kitchen may be cheaper then you think. Our team perform onsite
 
 ![](https://ucarecdn.com/a16e1f9f-053f-41fc-8cf6-2b5e9b40567c/)
 
-In this home makeover example, we also removed the Japanese style laundry doors next to the kitchen and replaced them with crisp white contemporary doors creating an overall appealing kitchen and dining space that wowed buyers. 
+In this home makeover example, we removed the Japanese style laundry doors and replaced them with contemporary doors creating an overall appealing kitchen and dining space that wowed buyers. 
 
 ![](https://ucarecdn.com/7fe0aadf-ecab-4047-af79-0589f5992fea/)
 
