@@ -1,6 +1,6 @@
 ---
 template: SinglePost
-title: Kitchen Transformation
+title: Kitchen Transformations
 status: Published
 date: 2022-05-02
 featuredImage: https://ucarecdn.com/f87c472f-0450-461c-a66d-0d89a5d36e3d/-/crop/892x562/0,201/-/preview/
