@@ -1,13 +1,14 @@
 ---
 template: SinglePost
-title: "Hamptons Style"
+title: Hamptons Style
 status: Published
 date: 2022-05-02
 featuredImage: https://ucarecdn.com/3c1c7e55-b002-4b5c-9bd9-6ed8bd7cc370/-/crop/892x585/0,178/-/preview/
-excerpt: This is placeholder text that our web designers put here to make sure
-  words appear properly on your website. This text is going to be replaced once
-  the website is completed. You are currently reading text that is written in
-  English, not any other language.
+excerpt: >
+  Contemporary Hamptons is a favourite style amongst buyers.  
+
+
+  Cool and natural tones set amongst a crisp white background create a feeling of pure relaxation and tranquillity. We also added an accent of gold throughout this home to lift the level of luxury.  The overall result was a hotly contested auction far exceeding the expected sale price.
 categories:
   - category: Our Work
 meta:
