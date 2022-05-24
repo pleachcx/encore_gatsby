@@ -3,7 +3,7 @@ template: SinglePost
 title: "Working From Home "
 status: Published
 date: 2022-05-24
-featuredImage: https://ucarecdn.com/e3e47302-66de-422d-8f84-437cfcd5581f/
+featuredImage: https://ucarecdn.com/ce81813d-65b4-4ab8-9402-dcac09e9c3a2/
 excerpt: Working from home
 categories:
   - category: Our Work
