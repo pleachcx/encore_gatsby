@@ -24,7 +24,7 @@ Transforming your kitchen may be cheaper then you think. Our team perform onsite
 
 ![](https://ucarecdn.com/a16e1f9f-053f-41fc-8cf6-2b5e9b40567c/)
 
-We also removed the Japanese style laundry doors next to the kitchen and simply installed complementary doors creating an overall appealing kitchen and dining space that wowed buyers.
+In this home makeover example, we also removed the Japanese style laundry doors next to the kitchen and replaced them with crisp white contemporary doors creating an overall appealing kitchen and dining space that wowed buyers.
 
 ![](https://ucarecdn.com/7fe0aadf-ecab-4047-af79-0589f5992fea/)
 
