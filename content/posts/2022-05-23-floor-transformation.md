@@ -15,7 +15,7 @@ Updating your flooring to maximise the appeal of your home is a wise investment.
 
 Whether it's new carpet, polishing existing floor boards, rejuvenating decks or retiling, we are here to help ensure that you put your best foot forward.
 
-We can stage and makeover homes from your front letterbox to the back fence, from your flooring to your roof and everything in-between.  
+We can stage and makeover homes from your flooring to your roof and everything in-between.  
 
 ![]()
 
