@@ -1,13 +1,12 @@
 ---
 template: SinglePost
-title: "Floor Transformation"
+title: "Working From Home "
 status: Published
 date: 2022-05-24
-featuredImage: https://ucarecdn.com/6dba502a-cc61-41bd-ba84-c003c8595629/-/crop/1382x936/267,0/-/preview/
+featuredImage: https://ucarecdn.com/e3e47302-66de-422d-8f84-437cfcd5581f/
 excerpt: Floors transformed etc etc
 categories:
   - category: Our Work
-
 meta:
   description: Renovated flooring
   title: Floor Transformation
