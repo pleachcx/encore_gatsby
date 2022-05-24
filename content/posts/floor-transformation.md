@@ -8,8 +8,8 @@ excerpt: Working from home
 categories:
   - category: Our Work
 meta:
-  description: Renovated flooring
-  title: Floor Transformation
+  description: ""
+  title: Working From Home
 ---
 Working From Home (WFH) spaces continue to be at the top of buyers shopping lists.  If your place doesn't offer this space, we can simply build and/or stage one for you so that you can attract the most number of buyers.  The greater the number of buyers, the greater your sale price.
 
