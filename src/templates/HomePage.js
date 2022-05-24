@@ -22,7 +22,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
         background: "#ffd60aff",
         
       }}
-      debug={true}
+      //debug={true}
       buttonStyle={{ 
         background: "white",
         color: "black",
