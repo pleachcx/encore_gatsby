@@ -1,6 +1,6 @@
 ---
 slug: contact
-featuredImage: https://ucarecdn.com/d564b10a-55a6-420b-8e28-6436fa36406b/-/crop/2000x820/0,886/-/preview/
+featuredImage: https://ucarecdn.com/2d330607-afac-4e8e-91ee-80e1945d1e19/-/crop/1957x957/0,796/-/preview/
 meta:
   description: Unlock your property returns
   title: Perfectly presented homes.
