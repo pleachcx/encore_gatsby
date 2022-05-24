@@ -4,10 +4,7 @@ title: Traditional
 status: Featured / Published
 date: 2022-05-20
 featuredImage: https://ucarecdn.com/b2101b0f-b148-4a28-8270-039d77173a10/
-excerpt: Etiam ac quam eget lectus venenatis ullamcorper sit amet non arcu.
-  Nullam interdum arcu vitae augue pulvinar sodales. Sed non dui diam. Quisque
-  lectus est, lobortis ac efficitur vitae, posuere a mauris. Phasellus ac dui
-  pellentesque, lacinia risus ut, imperdiet eros.
+excerpt: Traditional homes are filled with character that can either attract or detract buyers. The secret to achieving the best sale price is to appeal to a broad number of buyers whilst highlighting the unique character features of the home.
 categories:
   - category: Our Work
 meta:

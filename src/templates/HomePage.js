@@ -3,6 +3,9 @@ import { graphql } from 'gatsby'
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
+import CookieConsent, { Cookies } from "react-cookie-consent"
+
+
 
 // Export Template for use in CMS preview
 export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
@@ -13,6 +16,21 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
       subtitle={subtitle}
       backgroundImage={featuredImage}
     />
+    
+    <CookieConsent
+      location="bottom"
+      buttonText="Accept"
+      declineButtonText="Decline"
+      cookieName="gatsby-gdpr-google-analytics"
+      acceptOnScroll={true}
+      acceptOnScrollPercentage={30}
+      onAccept={() => {Cookies.set("gatsby-gdpr-google-analytics", "true"); 
+        Cookies.set("gatsby-gdpr-facebook-pixel", "true");
+        Cookies.set("gatsby-gdpr-google-tagmanager", "true");
+        }}
+      hideOnAccept={true}> 
+This website uses cookies to enhance the user experience.{" "}
+    </CookieConsent>
 
     <section className="section">
       <div className="container">
@@ -20,7 +38,10 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
       </div>
     </section>
   </main>
+  
 )
+  
+
 
 // Export Default HomePage for front-end
 const HomePage = ({ data: { page } }) => (
@@ -28,6 +49,8 @@ const HomePage = ({ data: { page } }) => (
     <HomePageTemplate {...page} {...page.frontmatter} body={page.html} />
   </Layout>
 )
+
+
 
 export default HomePage
 
