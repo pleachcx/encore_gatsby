@@ -11,7 +11,7 @@ meta:
   description: Renovated flooring
   title: Floor Transformation
 ---
-Working From Home (WFH) spaces continue to be at the top of buyers shopping lists.  If your place doesn't offer this space, we can simply build and stage one for you so that you can attract the most number of buyers.  The greater the number of buyers, the greater your sale price.
+Working From Home (WFH) spaces continue to be at the top of buyers shopping lists.  If your place doesn't offer this space, we can simply build and/or stage one for you so that you can attract the most number of buyers.  The greater the number of buyers, the greater your sale price.
 
 
 
