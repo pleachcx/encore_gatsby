@@ -21,7 +21,7 @@ module.exports = {
           dataLayerName: 'dataLayer', // default
         },
         facebookPixel: {
-          pixelId: 'YOUR_FACEBOOK_PIXEL_ID', // leave empty if you want to disable the tracker
+          pixelId: '708083663867805', // leave empty if you want to disable the tracker
           cookieName: 'gatsby-gdpr-facebook-pixel', // default
         },
         tikTokPixel: {

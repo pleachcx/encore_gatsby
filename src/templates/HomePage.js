@@ -18,6 +18,15 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
     />
     
     <CookieConsent
+      style={{
+        background: "#ffd60aff",
+        
+      }}
+      debug={true}
+      buttonStyle={{ 
+        background: "white",
+        color: "black",
+    }}
       location="bottom"
       buttonText="Accept"
       declineButtonText="Decline"
@@ -29,7 +38,7 @@ export const HomePageTemplate = ({ title, subtitle, featuredImage, body }) => (
         Cookies.set("gatsby-gdpr-google-tagmanager", "true");
         }}
       hideOnAccept={true}> 
-This website uses cookies to enhance the user experience.{" "}
+<span style={{ fontSize: "10px",color: "black" }}>We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners{" "}</span>
     </CookieConsent>
 
     <section className="section">
