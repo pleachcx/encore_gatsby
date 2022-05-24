@@ -2,7 +2,7 @@ import React, { Fragment } from 'react'
 import _get from 'lodash/get'
 import { Link, graphql } from 'gatsby'
 import { ChevronLeft } from 'react-feather'
-
+import CookieConsent, { Cookies } from "react-cookie-consent"
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import './SinglePost.css'
@@ -84,6 +84,20 @@ export const SinglePostTemplate = ({
         </div>
       </div>
     </article>
+    <CookieConsent
+      location="bottom"
+      buttonText="Accept"
+      declineButtonText="Decline"
+      cookieName="gatsby-gdpr-google-analytics"
+      acceptOnScroll={true}
+      acceptOnScrollPercentage={30}
+      onAccept={() => {Cookies.set("gatsby-gdpr-google-analytics", "true"); 
+        Cookies.set("gatsby-gdpr-facebook-pixel", "true");
+        Cookies.set("gatsby-gdpr-google-tagmanager", "true");
+        }}
+      hideOnAccept={true}> 
+This website uses cookies to enhance the user experience.{" "}
+    </CookieConsent>
   </main>
 )
 
@@ -103,6 +117,7 @@ const SinglePost = ({ data: { post, allPosts } }) => {
         prevPostURL={_get(thisEdge, 'previous.fields.slug')}
       />
     </Layout>
+    
   )
 }
 
