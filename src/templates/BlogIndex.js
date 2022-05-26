@@ -7,6 +7,7 @@ import PageHeader from '../components/PageHeader'
 import PostSection from '../components/PostSection'
 import PostCategoriesNav from '../components/PostCategoriesNav'
 import Layout from '../components/Layout'
+import Cookie from '../components/Cookies'
 
 /**
  * Filter posts by date. Feature dates will be fitered
@@ -68,7 +69,7 @@ export const BlogIndexTemplate = ({
             subtitle={subtitle}
             backgroundImage={featuredImage}
           />
-
+            <Cookie></Cookie>
           {!!postCategories.length && (
             <section className="section thin">
               <div className="container">

@@ -6,7 +6,7 @@ import Layout from '../components/Layout'
 import { MapPin, Smartphone, Mail } from 'react-feather'
 import './ContactPage.css'
 import CookieConsent, { Cookies } from "react-cookie-consent"
-
+import Cookie from '../components/Cookies'
 
 // Export Template for use in CMS preview
 export const ContactPageTemplate = ({ 
@@ -24,22 +24,8 @@ export const ContactPageTemplate = ({
       subtitle={subtitle}
       backgroundImage={featuredImage}
     />
-
-    <CookieConsent
-      location="bottom"
-      buttonText="Accept"
-      declineButtonText="Decline"
-      cookieName="gatsby-gdpr-google-analytics"
-      acceptOnScroll={true}
-      acceptOnScrollPercentage={30}
-      onAccept={() => {Cookies.set("gatsby-gdpr-google-analytics", "true"); 
-        Cookies.set("gatsby-gdpr-facebook-pixel", "true");
-        Cookies.set("gatsby-gdpr-google-tagmanager", "true");
-        }}
-      hideOnAccept={true}> 
-This website uses cookies to enhance the user experience.{" "}
-    </CookieConsent>
-
+    <Cookie></Cookie>
+    
     <section className="section Contact--Section1">
       <div className="container Contact--Section1--Container">
         <div>

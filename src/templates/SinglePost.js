@@ -6,6 +6,7 @@ import CookieConsent, { Cookies } from "react-cookie-consent"
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import './SinglePost.css'
+import Cookie from '../components/Cookies'
 
 export const SinglePostTemplate = ({
   title,
@@ -16,6 +17,7 @@ export const SinglePostTemplate = ({
   categories = []
 }) => (
   <main>
+    <Cookie></Cookie>
     <article
       className="SinglePost section light"
       itemScope
