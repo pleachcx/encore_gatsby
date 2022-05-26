@@ -4,10 +4,11 @@ import CookieConsent, { Cookies } from "react-cookie-consent"
 export const Cookie = () => (
     <main>
         <CookieConsent
+            hideOnAccept={true}
             style={{
             background: "#ffd60aff",
             }}
-            debug={true}
+            //debug={true}
             buttonStyle={{ 
                 background: "white",
                 color: "black",

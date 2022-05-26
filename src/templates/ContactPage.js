@@ -5,7 +5,6 @@ import Content from '../components/Content'
 import Layout from '../components/Layout'
 import { MapPin, Smartphone, Mail } from 'react-feather'
 import './ContactPage.css'
-import CookieConsent, { Cookies } from "react-cookie-consent"
 import Cookie from '../components/Cookies'
 
 // Export Template for use in CMS preview
