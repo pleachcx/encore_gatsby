@@ -6,7 +6,7 @@ featuredImage: https://ucarecdn.com/ac4db2a5-a450-4871-851d-8995a7a57a1c/
 subtitle: Unlock your property returns
 meta:
   description: Unlock your property returns
-  title: Perfectly presented homes
+  title: Home Staging Service
 ---
 ## Home Staging
 

@@ -1,6 +1,5 @@
 import React from 'react'
 import { graphql } from 'gatsby'
-import Form from '../components/FormSimpleAjax'
 import PageHeader from '../components/PageHeader'
 import Content from '../components/Content.js'
 import Layout from '../components/Layout.js'
@@ -68,27 +67,6 @@ export const ComponentsPageTemplate = ({
       </div>
     </section>
     <section>
-      <form
-        name="contact"
-        method="POST"
-        data-netlify-recaptcha="true"
-        data-netlify="true"
-      >
-        <p>
-          <label>
-            Email: <input type="text" name="name" />
-          </label>
-        </p>
-        <p>
-          <label>
-            Message: <textarea name="message"></textarea>
-          </label>
-        </p>
-        <div data-netlify-recaptcha="true"></div>
-        <p>
-          <button type="submit">Send</button>
-        </p>
-      </form>
     </section>
   </main>
 )

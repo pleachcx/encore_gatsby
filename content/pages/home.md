@@ -5,7 +5,7 @@ title: encore home staging
 featuredImage: https://ucarecdn.com/a76256a5-8690-4400-9806-36df883abd5b/
 subtitle: Unlock your property returns
 meta:
-  description: This is a meta description.
+  description: Unlock Your Property Returns
   title: Encore Home Staging
 ---
 ## **Presenting your home at its best is critical for success**
