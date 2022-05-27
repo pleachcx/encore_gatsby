@@ -7,6 +7,16 @@ module.exports = {
   },
   plugins: [
     {
+      resolve: `gatsby-plugin-sitemap`,
+      options: {
+        exclude: [
+          '*/admin/*', 
+          '*/components/*',
+          '*/default/*',
+          '*/blog/'],
+      },
+    },
+    {
       resolve: `gatsby-plugin-gdpr-cookies`,
       options: {
         googleAnalytics: {
@@ -144,7 +154,7 @@ module.exports = {
         showSpinner: false
       }
     },
-    'gatsby-plugin-sitemap',
+    
     {
       resolve: 'gatsby-plugin-netlify-cms',
       options: {
