@@ -10,10 +10,10 @@ if (process.env.GATSBY_NETLIFY_MAP_KEY) {
 class GoogleMap extends Component {
   static defaultProps = {
     center: {
-      lat: -28.0914483,
-      lng: 153.4425208
+      lat: -38.364594,
+      lng: 144.770728
     },
-    zoom: 14
+    zoom: 12
   }
 
   render() {
