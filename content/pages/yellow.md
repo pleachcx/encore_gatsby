@@ -1,10 +1,10 @@
 ---
-template: YellowPage
-slug: yellow
-title: Yellow Page
+template: ContactPage
+slug: contact
+title: Contact Us
 featuredImage: https://ucarecdn.com/2d330607-afac-4e8e-91ee-80e1945d1e19/-/crop/1957x957/0,796/-/preview/
-subtitle: Don't sell your home for less
-address: '21 Lansdowne St, Blairgowrie VIC 3942'
+subtitle: Get In Touch
+address: '57 Ocean St, Rosebud VIC 3939'
 phone: 0476 989 455
 email: info@encorehomestaging.com.au
 locations:
