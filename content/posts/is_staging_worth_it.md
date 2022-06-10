@@ -9,7 +9,7 @@ categories:
  - category: FAQ
 meta:
   canonicalLink: ''
-  description: 
+  description: Pros And Cons Of Staging Your Home
   noindex: false
   title: Is Staging Worth It?
 ---

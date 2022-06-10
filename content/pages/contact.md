@@ -6,7 +6,7 @@ meta:
   description: Contact Us
   title: Contact
 phone: 0476 989 455
-address: 21 Lansdowne St, Blairgowrie VIC 3942
+address: 57 Ocean St, Rosebud VIC 3939
 template: ContactPage
 title: Contact Us
 subtitle: |-

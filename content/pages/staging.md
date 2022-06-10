@@ -5,8 +5,8 @@ title: Home Staging
 featuredImage: https://ucarecdn.com/ac4db2a5-a450-4871-851d-8995a7a57a1c/
 subtitle: Unlock your property returns
 meta:
-  description: Unlock your property returns
-  title: Home Staging Service
+  description: How We Help Stage Your Home For Sale
+  title: Home Staging Our Service
 ---
 ## Home Staging
 

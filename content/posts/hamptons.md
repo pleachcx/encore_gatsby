@@ -8,7 +8,7 @@ excerpt: Our Work
 categories:
   - category: Our Work
 meta:
-  description: Hampton Styled Homes
+  description: Hampton Styled Homes By Encore
   title: Hamptons Style
 ---
 Contemporary Hamptons is a favourite style amongst buyers.  

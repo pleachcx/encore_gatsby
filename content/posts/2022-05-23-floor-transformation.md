@@ -8,8 +8,8 @@ excerpt: Flooring
 categories:
   - category: Our Work
 meta:
-  title: Working From Home
-  description: ""
+  title: Floor Transformation
+  description: Present Your Home Better Starting With The Floors
 ---
 Updating your flooring to maximise the appeal of your home is a wise investment. We can transform tired and drab floors, decks and tiles in a very short time frame so that you can go to market with confidence.  
 

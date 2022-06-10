@@ -5,7 +5,7 @@ title: About Us
 featuredImage: https://ucarecdn.com/00c07f3d-bf9b-43ed-a0fd-4821152b5e47/
 subtitle: ""
 meta:
-  description: Unlock your property returns
+  description: Who Is Encore Home Staging And What We Do
   title: About Us
 ---
 We understand the pure joy and relief experienced when achieving incredible home sales results, especially when they surpass all expectations! That is why we are inspired to help homeowners achieve the same.

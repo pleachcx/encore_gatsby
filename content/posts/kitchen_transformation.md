@@ -8,7 +8,7 @@ excerpt: Kitchen transformation
 categories:
   - category: Our Work
 meta:
-  description: Before and After
+  description: Before and After Kitchens Transformations
   title: Kitchen Transformation
 ---
  “Paint is liquid gold” has never been truer than in this home.

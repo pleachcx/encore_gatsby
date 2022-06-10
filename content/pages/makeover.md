@@ -5,7 +5,7 @@ title: Home Makeovers
 featuredImage: https://ucarecdn.com/aa3df7a4-4c25-4386-a6bb-611cfd976bcf/-/crop/986x663/69,76/-/preview/
 subtitle: Unlock your property returns
 meta:
-  description: Our Services Home Makeovers
+  description: How We Help You Present Better With Our Home Makeovers
   title: Home Makeover Service
 ---
 ## Home Makeovers

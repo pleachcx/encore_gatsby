@@ -9,9 +9,9 @@ categories:
   - category: Our Work
 meta:
   canonicalLink: ""
-  description: Traditional Styled Homes
+  description: Traditional Styled Homes BY Encore
   noindex: false
-  title: Traditional
+  title: Traditional Styled Homes
 ---
 Traditional homes are filled with character that can either attract or detract buyers. The secret to achieving the best sale price is to appeal to a broad number of buyers whilst highlighting the unique character features of the home. 
 

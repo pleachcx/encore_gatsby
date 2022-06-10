@@ -10,9 +10,9 @@ categories:
   - category: FAQ
 meta:
   canonicalLink: ""
-  description: test meta description
+  description: Understand The Process And UnlocL Your Sale Price
   noindex: false
-  title: test meta title
+  title: How To Unlock Profits
 ---
 ![](https://ucarecdn.com/027cb279-64a2-4785-99be-9d8ce919b50b/)
 

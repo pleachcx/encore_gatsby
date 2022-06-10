@@ -10,7 +10,7 @@ excerpt: >-
 categories:
   - category: FAQ
 meta:
-  description: 
+  description: Home Staging vs Home Styling
   title: What Is Home Staging?
 ---
 

@@ -8,7 +8,7 @@ excerpt: Competition is high in the real estate market...so how do you make your
 categories:
   - category: FAQ
 meta:
-  description: Styling to Sell
+  description: What Is Property Styling And Tips From Agents
   title: Styling to Sell
 ---
 ![](https://www.ljhooker.com.au/getmedia/77826632-8ccd-4eae-a65c-fc9b073f838c/why-buy-ljhooker-main.jpg.aspx?width=658&height=317&ext=.jpg)

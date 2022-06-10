@@ -16,6 +16,8 @@ meta:
   description: 
   noindex: false
   title: Common Mistakes
+  description: Common Mistakes When Staging Yourself
+
 ---
 ![](https://ucarecdn.com/d62e393e-7897-4a40-a84d-abb6902fd1ec/)
 
