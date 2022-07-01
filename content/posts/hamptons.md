@@ -17,24 +17,21 @@ Cool and natural tones set amongst a crisp white background create a feeling of 
 
 For this particular home, we also added an accent of gold throughout to lift the level of luxury.  The overall result was a hotly contested auction far exceeding the expected sale price.
 
-![](https://ucarecdn.com/f1c072ce-d747-4cde-892b-52c13458d947/)
+![](https://ucarecdn.com/3acd6884-a775-48b5-8a78-919f5b072494/)
 
 
 
-![Study](https://ucarecdn.com/0a484093-f9e7-450f-a942-365f6a788e60/-/crop/892x577/0,178/-/preview/)
+![Study](https://ucarecdn.com/6a16ffad-6dc3-42d7-9002-daab2afe887d/)
 
-![](https://ucarecdn.com/35a02ce8-890c-422d-b917-94905216c1a8/-/crop/886x561/0,186/-/preview/)
-
-![]()
-
-![](https://ucarecdn.com/0009980e-9184-4c97-a0a1-c410e564c718/)
-
-![](https://ucarecdn.com/07aafeb9-5ed2-4207-9897-9adc970ad358/)
-
-![](https://ucarecdn.com/f7831242-302f-417b-b4c2-e507dc5a966c/)
+![](https://ucarecdn.com/6baae31c-9909-4774-a7fe-a156582d1d99/)
 
 ![]()
 
-![]()
+![](https://ucarecdn.com/126ecc73-bf21-44c8-b529-6c08dd502b34/)
 
-![](https://ucarecdn.com/df1a596b-d059-43e8-b3b5-44cadec2c750/)
+![](https://ucarecdn.com/400e7d31-5282-4660-a92a-2635942976cf/)
+
+![](https://ucarecdn.com/06d824d2-db49-42c1-a56d-8c81d3291922/)
+
+
+![](https://ucarecdn.com/b75c0e1a-3c0a-43cb-9e0f-dc7493e73252/)
