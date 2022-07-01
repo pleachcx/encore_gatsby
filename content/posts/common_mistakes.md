@@ -12,11 +12,11 @@ excerpt: "DIY home styling is risky because you can inadvertently leave or add
 categories:
   - category: FAQ
 meta:
-  canonicalLink: ""
-  description: 
-  noindex: false
-  title: Common Mistakes
   description: Common Mistakes When Staging Yourself
+  title: Common Mistakes
+  
+  
+  
 
 ---
 ![](https://ucarecdn.com/d62e393e-7897-4a40-a84d-abb6902fd1ec/)
