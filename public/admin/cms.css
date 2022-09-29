@@ -670,7 +670,7 @@ summary {
 }
 
 :root {
-  --primary: rgba(255,214,10,1);
+  --primary: rgb(13, 123, 240);
   --secondary: #000;
   --lightGrey: whitesmoke;
   --midGrey: #cacaca;
@@ -690,7 +690,7 @@ summary {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: rgba(255,214,10,1);
+  background-color: rgb(13, 123, 240);
   background-color: var(--primary);
 }
 
@@ -727,7 +727,7 @@ body {
 }
 
 a {
-  color: rgba(255,214,10,1);
+  color: rgb(13, 123, 240);
   color: var(--primary);
 }
 
@@ -807,7 +807,7 @@ blockquote {
   line-height: 1.1;
   font-size: 1em;
   font-style: italic;
-  border-left: 2px solid rgba(255,214,10,1);
+  border-left: 2px solid rgb(13, 123, 240);
   border-left: 2px solid var(--primary);
 }
 
@@ -820,7 +820,7 @@ blockquote {
   background-color: white;
 }
 .dark {
-  background-color: rgba(255,214,10,1);
+  background-color: rgb(13, 123, 240);
   background-color: var(--primary);
   color: white;
 }
@@ -913,7 +913,7 @@ blockquote {
 /* Buttons */
 
 .Button {
-  background: rgba(255,214,10,1);
+  background: rgb(13, 123, 240);
   background: var(--primary);
   color: white;
   text-transform: uppercase;

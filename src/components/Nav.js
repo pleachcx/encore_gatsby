@@ -26,7 +26,16 @@ export class Navigation extends Component {
       this.state.active && this.handleMenuToggle()
     }
   }
-
+  toggleSubNav = subNav =>
+     this.setState({
+       activeSubNav: this.state.activeSubNav === subNav ? false : subNav
+     })
+   keyToggleSubNav = (e, subNav) => {
+     // key o is for open so you can enter key to open
+     if (e.keyCode === 79 || e.keyCode === 27) {
+       this.toggleSubNav(subNav)
+     }
+   }
 
   render() {
     const { active } = this.state,

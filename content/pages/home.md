@@ -24,7 +24,7 @@ Our approach has proven time and time again to financially reward and delight se
 
 ## **Our unique presentation services can help achieve your dream sale**
 
-We specialise in **home makeover** and **home staging** **presentation services** to maximise the value of homes for sale.
+We specialise in [home makeover](https://encorehomestaging.com.au/makeover) and [home staging](https://encorehomestaging.com.au/staging) **presentation services** to maximise the value of homes for sale.
 
 We uniquely offer both services under the one roof, providing you with more options to add value to your home whilst saving you time and money.
 
