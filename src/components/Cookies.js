@@ -1,10 +1,9 @@
-import React, { Component } from 'react'
+import React from 'react'
 import CookieConsent, { Cookies } from "react-cookie-consent"
 
 export const Cookie = () => (
     <main>
         <CookieConsent
-            hideOnAccept={true}
             style={{
             background: "#ffd60aff",
             }}
